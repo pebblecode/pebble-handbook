@@ -2,7 +2,7 @@
 
 pebble {code} is deliberately light on management layers. We hire talented self-starters and trust them to express themselves. This handbook is intended to be a guide to people coming into the Creative Technologist role. You might know all of this already or have a different opinion. If so please consider contributing to this handbook.
 
-If you ever need help with you should approach one of the Directors. The chances are we have already had a similar situation and if you have a juicy programming, design or product problem they will get excited about collaborating with you. 
+If you ever need help you should approach one of the Directors. The chances are we have already had a similar situation and if you have a juicy programming, design or product problem they will get excited about collaborating with you. 
 
 ## Challenge everything
 
