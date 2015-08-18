@@ -43,7 +43,7 @@ By using measurement it is possible to remove subjective thinking and to give us
 
 Agile is the best process for creating software products. We often find that clients have a little or no knowledge of the Agile process. It is our job to coach clients on the Agile process, to introduce the software tools we use to manage the process. Invariably we see that clients embrace the Agile process and strut round the office, parading it around their organisation like a new pair of trainers. 
 
-We typically see four personality types around Agile. The chances are you may have come across these before if you've made any software in anger. 
+We typically see five personality types around Agile. The chances are you may have come across these before if you've made any software in anger. 
 
 ### The Expert
 
