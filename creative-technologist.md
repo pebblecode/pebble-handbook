@@ -109,7 +109,7 @@ Letting a client know that an idea is not working and proposing alternative appr
 
 ## Celebrate success
 
-Our teams often work for months on a single project toward an initial release or a product being pushed out to a wider audience. We are extremely proud of the creativity that happens in pebble {code} and feel strongly about celebrating team success. If you feel a team has achieved outstanding results you should feel free to suggest that the team should celebrate. Historically teams have celebrated with dinners out but you might choose as a team to do something else. Cheese tasting, a night at the movies, human foosball - it is up to you and the team. 
+Our teams often work for months on a single project towards an initial release or a product being pushed out to a wider audience. We are extremely proud of the creativity that happens in pebble {code} and feel strongly about celebrating team success. If you feel a team has achieved outstanding results you should feel free to suggest that the team should celebrate. Historically teams have celebrated with dinners but you might choose as a team to do something else. Cheese tasting, a night at the movies, human foosball - it is up to you and the team. 
 
 pebble is a collaborative company and this document is intended to evolve. As you progress through your time at pebble please contribute back to this document and make it better. 
 
