@@ -9,7 +9,7 @@ We’ve put together some guidance document for our recruitment:
 
 Whether you are looking to create a new role or update /improve the success rate of attracting talent, you will need to make sure that you have a clear understanding of why we need to make this hire and how this person will fit within the company. This means taking some time to think about what problems the new hire will help us solve within the company. Once this is defined, we will need to create a candidate spec not only for the benefit for the people we are looking to hire, but also to make sure we also know why we are doing what we are doing.
 
-Potential candidates will be exposed information about pebble code via multiple channels, the most visited channels will likely be via our careers page and candidate specification document (which includes a job description). 
+Potential candidates will be exposed information about pebble code from multiple channels, the most visited channels will likely be via our careers page and candidate specification document (which includes a job description). 
 
 **Related Links:**
 [Careers page](http://pebblecode.com/careers/) / [Defining Candidate Specifications](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/defining-candidate-specification.md)
@@ -43,7 +43,7 @@ A few options to consider:
 - Cold phone calls are generally hated by all, but cold emails are not quite as bad. Am email is always welcome if it is relevant tot he candidates at the right time in their career. 
 
 **Related Links:**
-[Initial Contact Guidance]()
+[Initial Contact Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/initial-contact.md)
 
 **Draft Here**
 
@@ -68,4 +68,4 @@ It is important that this is done quickly. We must get the offer into the hands 
 This is the most important thing (inline with client ecstasy) that we will do as a business if we are to grow. We must therefore continually improve this process by running through a retrospective after the hire/no-hire decision. 
 
 **Related Links:**
-[Retrospective Guidance]()
+[Retrospective Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/retrospective.md)
