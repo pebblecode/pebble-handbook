@@ -48,9 +48,9 @@ A few options to consider:
 
 It is important that we are able to test these candidates pre the interviews. It is the best way of understanding their ability and keenness for the role.
 
-[Screening Developer Candidates]()
-[Screening Designer Candidates]()
-[Screening Creative Technologist Candidates]()
+- [Screening Developer Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/developer/screening-candidates.md)
+- [Screening Designer Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/designer/screening-candidates.md)
+- [Screening Creative Technologist Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/creative-technologist/screening-candidates.md)
 
 ## Compensation Planning
 
