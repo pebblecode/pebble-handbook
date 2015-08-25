@@ -11,11 +11,7 @@ If you are do not yet have access to the platform, let your line manager or [Jon
 
 If you are proactively looking for candidates for a particular role, and discover talents on twitter, linkedin or github, you can use a browser extension on Chrome of Firefox to help you add candidates to recruitee for future reference.
 
-**Related Links:**
 [![Recruitee - Candidate Sourcing](http://img.youtube.com/vi/GAE0m2LICu8/0.jpg)](https://www.youtube.com/watch?v=GAE0m2LICu8)
-
-
-[Recruitee - Candidate Sourcing](https://www.youtube.com/watch?v=GAE0m2LICu8)
 
 **Pro Tip**
 If you want to get someones email, the best places to find it include, the candidates github profile, their homepage and sometimes in slideshare presentations. 
