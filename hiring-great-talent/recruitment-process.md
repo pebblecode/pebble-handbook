@@ -11,7 +11,7 @@ Whether you are looking to create a new role or update /improve the success rate
 
 Potential candidates will be exposed information about pebble code via multiple channels, the most visited channels will likely be via our careers page and candidate specification document (which includes a job description). 
 
-**Related Links: **
+**Related Links:**
 [Careers page](http://pebblecode.com/careers/) / [Defining Candidate Specifications](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/defining-candidate-specification.md)
 
 ## Sourcing Candidates
