@@ -29,7 +29,7 @@ Some roles will be more difficult to fill, and where online advertisements doesn
 
 If we find suitable candidates, they should be put into Recruitee (our recruitment platform) into the sourcing section of each role with as much detail as possible.
 
-**Related Links: **
+**Related Links:**
 [Introduction to Recruitee](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/introduction-to-recruitee.md)
 
 ### First Contact
@@ -42,7 +42,7 @@ A few options to consider:
 - Getting to know people via social networks like twitter allows candidates to get to know you a little better too. 
 - Cold phone calls are generally hated by all, but cold emails are not quite as bad. Am email is always welcome if it is relevant tot he candidates at the right time in their career. 
 
-**Related Links: **
+**Related Links:**
 [Initial Contact Guidance]()
 
 **Draft Here**
@@ -67,5 +67,5 @@ It is important that this is done quickly. We must get the offer into the hands 
 
 This is the most important thing (inline with client ecstasy) that we will do as a business if we are to grow. We must therefore continually improve this process by running through a retrospective after the hire/no-hire decision. 
 
-**Related Links: **
+**Related Links:**
 [Retrospective Guidance]()
