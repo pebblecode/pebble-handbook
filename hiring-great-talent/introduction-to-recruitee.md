@@ -27,7 +27,6 @@ Recruitee uses a 5 star rating system. You can add and edit the kind of skills y
 4 = very good (4s get hired, generally)
 5 = excellent
 
-
 ## Notes on candidates
 
 ## Communicating with candidates
