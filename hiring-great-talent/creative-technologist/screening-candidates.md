@@ -8,7 +8,7 @@
 
 ## Phone - Panel Interview
 
-## Setup Interview & Identify/Brief Panelists
+## Setup Interview & Identify / Brief Panelists
 The process must be inclusive and enhance cohesion in the team. It is important that every member of the team is onboard with “the sell” and why we are doing this. 
 
 Panelists should be our most impressive people - they need to be the most discriminating and must impress the interviewee. Panels must be briefed on the candidate specification, process, scoring system and why this is such a great opportunity - they must believe! 
