@@ -1,7 +1,7 @@
 # Hiring Great Talent
-Since we’re going to be spending a lot of time together, we want to make sure that the people who join our teams are the kind of people you want to work with, and enjoy being around with. We’d like to hire great people like you. 
+Since we’re going to be spending a lot of time together, we want to make sure that the people who join our teams are the kind of people you want to work with, and enjoy being around. We’d like to hire great people like you. 
 
-Our hiring process is an open and continuously evolving one, if you have suggestions and have some ideas how we can improve things, please consider getting involved.
+Our hiring process is an open and continuously evolving one, if you have suggestions and have some ideas how we can improve things, get involved!
 
 We’ve put together some guidance document for our recruitment:
 
