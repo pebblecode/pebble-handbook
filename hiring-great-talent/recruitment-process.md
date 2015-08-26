@@ -58,12 +58,12 @@ If we find suitable candidates, they should be put into Recruitee (our recruitme
 
 ### First Contact
 
-If you are sourcing potential candidates, then it’s important to remember what it feels like to be approached by a recruiter and how painful that experience can sometimes be. While you will essentially be selling pebble {code}, it cannot come across too much like a sell. 
+If you are sourcing potential candidates, it’s important to remember what it feels like to be approached by a recruiter and how painful that experience can sometimes be. While you will essentially be selling pebble {code}, it cannot come across too much like a sell. 
 
 A few options to consider:
 
-- A warm connections are always better, people are more receptive to people they know and trust, so where possible use our networks to get in touch with candidates.
-- Getting to know people via social networks like twitter allows candidates to get to know you a little better too. It takes a little more time but it’s a more human and personal approach to connecting with someone.
+- Warm connections are always better, people are more receptive to people they know and trust, so where possible use our networks to get in touch with candidates.
+- Getting to know people via social networks like twitter allows candidates to get to know you a little better too. It takes a more time but a more human and personal approach to connecting with someone.
 - Cold phone calls are generally hated by all, but cold emails are not quite as bad. An email is always welcome if it is relevant to the candidates at the right time in their career. 
 
 **Related Links:**
@@ -73,7 +73,16 @@ A few options to consider:
 
 ## Screening Candidates
 
-It is important that we are able to test these candidates pre the interviews. It is the best way of understanding their ability and keenness for the role.
+Great hires can build a great company but at the same time, poor hires will weaken performance and will be hard to get rid of. It is important that we screen candidates effectively before we meet them face to face. 
+
+Essentially what we are looking to understand from the candidates are the following:
+
+- Problem Solving
+- Functional Competence
+- Teamwork
+- Company Fit
+
+The exact we we approach this will be different depending on the role we are looking to recruit:
 
 - [Screening Developer Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/developer/screening-candidates.md)
 - [Screening Designer Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/designer/screening-candidates.md)
@@ -81,15 +90,17 @@ It is important that we are able to test these candidates pre the interviews. It
 
 ## Compensation Planning
 
-This will depend on the person, but we need to be able to make an attractive offer to the candidate. This will include salary, benefits, an indication of potential to grow and ideally an indication of potential bonuses. It may also be worth mentioning share options and the potential path to Technical Director of pebble {code}. Top people will require top compensation. 
+The compensation package will depend on the person. For the right candidate we need to be able to make an attractive offer. This will include salary, benefits, an indication of potential to grow and ideally an indication of potential bonuses. It may also be worth mentioning share options and the potential path to Technical Director of pebble {code}. Top people will require top compensation. 
 
-## Close Candidate
+## Closing the Candidate
 
-It is important that this is done quickly. We must get the offer into the hands of the candidate the next day at the latest. We must also come up with something quirky and fun that we can do to endear the candidate to the company. Ideas always welcome, but suggest pub drinks as an MVP so that the candidate can meet members of the team. 
+If after the face to face interview, the team you are working with collectively feel confident about a candidate, you will need to close the candidate quickly and get an offer to the candidate by the next day at the latest. 
 
 ## Retrospective
 
-This is the most important thing (inline with client ecstasy) that we will do as a business if we are to grow. We must therefore continually improve this process by running through a retrospective after the hire/no-hire decision. 
+Our hiring processes is a continuously evolving process. As pebble {code} grows, so too will our hiring needs. It is important for us to run retrospectives on our hiring process in the same way we do for client projects.
 
+Our goal is to identify actions that can help us improve our hiring process and eliminating unreasonable work and fully draw on the creativity of pebble folks through experimentation.
+ 
 **Related Links:**
 [Retrospective Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/retrospective.md)
