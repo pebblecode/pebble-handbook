@@ -35,4 +35,4 @@ Each panel will have the candidate for just under 1 hour and be assessed, out of
 
 Each member of the panel will be given a scoring sheet and some guidance. As a rule, 4 and above is a hire… below is a no-hire! At the end of the process all scores will be totalled up and an average taken. 
 
-Panel Interviews Guidance / Scoring sheet
+[Panel Interviews Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/creative-technologist/panel-interviews.md) / [Scoring sheet](https://docs.google.com/document/d/1bk59j77QOH-uEgQhtY-u4WC-mEDZ604rjY54cTtAue0/edit)
