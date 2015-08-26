@@ -54,7 +54,7 @@ If we find suitable candidates, they should be put into Recruitee (our recruitme
 **Related Links:**
 [Introduction to Recruitee](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/introduction-to-recruitee.md)
 
- * **Headhunters** - currently we are using [Gravitas](http://www.gravitasrecruitmentgroup.com/) with mixed results, their strengths cover more enterprise level developers i.e using languages .NET, #C and #F. We are currently considering using [Zebra People](http://zebrapeople.com/) who have had success with UX Designers / Front end developers and more recently broadening their candidates skill set. We spoke with [Arran Ross-Paterson](https://twitter.com/arranrp) who sounds like he really understands how to engage with Developers and is likely to introduce the kind of candidates we are looking to hire. 
+&* **Headhunters** - currently we are using [Gravitas](http://www.gravitasrecruitmentgroup.com/) with mixed results, their strengths cover more enterprise level developers i.e using languages .NET, #C and #F. We are currently considering using [Zebra People](http://zebrapeople.com/) who have had success with UX Designers / Front end developers and more recently broadening their candidates skill set. We spoke with [Arran Ross-Paterson](https://twitter.com/arranrp) who sounds like he really understands how to engage with Developers and is likely to introduce the kind of candidates we are looking to hire. 
 
 ### First Contact
 
