@@ -49,7 +49,7 @@ Some roles will be more difficult to fill than others. Where online advertisemen
 - Universities 
 - Headhunters (last resort if possible)*
 
-If we find suitable candidates, they should be put into Recruitee (our recruitment platform) into the sourcing section of each role with as much detail as possible.
+If you find suitable candidates, you can put them into the sourcing section of Recruitee (our recruitment platform).
 
 **Related Links:**
 [Introduction to Recruitee](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/introduction-to-recruitee.md)
@@ -68,8 +68,6 @@ A few options to consider:
 
 **Related Links:**
 [Initial Contact Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/initial-contact.md)
-
-**Draft Here**
 
 ## Screening Candidates
 
