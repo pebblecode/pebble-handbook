@@ -22,11 +22,8 @@ The easiest and most effective way to source qualified candidate is through onli
 
 **Advertised Job Posts** | **Community Events**
 --- | --- 
-
 [Stack Overflow Careers](https://careers.stackoverflow.com/company/pebble-code) | [gin.js ](http://ginjs.org/)
-
 [Unicorn Hunt](https://unicornhunt.io/) | [London Node User Group](http://lnug.org/)
-
 [JS Weekly](http://javascriptweekly.com/) |
 
 
