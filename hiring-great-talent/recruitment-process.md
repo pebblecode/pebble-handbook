@@ -9,7 +9,7 @@ We’ve put together some guidance document for our recruitment:
 
 Whether you are looking to create a new role or update / improve the success rate of attracting talent, you will need to make sure that you have a clear understanding of why we need to make this hire and how this person will fit within the company. This means taking some time to think about what [problems the new hire will help us solve](https://medium.com/@pebblecode/cloning-our-founders-bd49b95e74ef) within the company. Once this is defined, we will need to create a candidate spec not only for the benefit for the people we are looking to hire, but also to make sure we also know why we are doing what we are doing.
 
-Future pebble people will be learn about pebble code from multiple channels, the most visited channels will likely be via our careers page and candidate specification document (which includes a job description). 
+Future pebble {code} people will learn about pebble {code} from multiple channels, the most visited channels will likely be via our careers page and candidate specification document (which includes a job description). 
 
 **Related Links:**
 [Careers page](http://pebblecode.com/careers/) / [Defining Candidate Specifications](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/defining-candidate-specification.md)
