@@ -20,16 +20,15 @@ The easiest and most effective way to source qualified candidate is through onli
 
 ### Developer roles
 
-**Advertised Job Posts**
+**Advertised Job Posts** | **Community Events**
+--- | --- 
 
-- [Stack Overflow Careers](https://careers.stackoverflow.com/company/pebble-code)
-- [Unicorn Hunt](https://unicornhunt.io/)
-- [JS Weekly](http://javascriptweekly.com/) 
+[Stack Overflow Careers](https://careers.stackoverflow.com/company/pebble-code) | [gin.js ](http://ginjs.org/)
 
-**Community Events**
+[Unicorn Hunt](https://unicornhunt.io/) | [London Node User Group](http://lnug.org/)
 
-- [gin.js ](http://ginjs.org/)
-- [London Node User Group](http://lnug.org/)
+[JS Weekly](http://javascriptweekly.com/) |
+
 
 
 ### Designers roles
