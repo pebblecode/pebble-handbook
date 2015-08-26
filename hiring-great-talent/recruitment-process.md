@@ -30,16 +30,11 @@ The easiest and most effective way to source qualified candidate is through onli
 
 ### Designers roles
 
-**Advertised Job Posts**
-
-- [If You Could Jobs](http://ifyoucouldjobs.com/) The It’s Nice That Jobsboard
-
-**Community Events**
-
-More research required here.
+**Advertised Job Posts** | **Community Events**
+--- | --- 
+[If You Could Jobs](http://ifyoucouldjobs.com/) The It’s Nice That Jobsboard | More research required here.
 
 **Related Links**
-
 [Potential Events to Consider](https://trello.com/c/wGeaszIi/4-external-events-sponsorship-attending-speaking)
 
 ## Sourcing Candidates Directly
