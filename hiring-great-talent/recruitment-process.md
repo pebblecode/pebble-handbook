@@ -32,7 +32,7 @@ The easiest and most effective way to source qualified candidate is through onli
 
 **Advertised Job Posts** | **Community Events**
 --- | --- 
-[If You Could Jobs](http://ifyoucouldjobs.com/) The It’s Nice That Jobsboard | More research required here.
+[If You Could Jobs](http://ifyoucouldjobs.com/) - The It’s Nice That Jobsboard | More research required here.
 
 **Related Links**
 [Potential Events to Consider](https://trello.com/c/wGeaszIi/4-external-events-sponsorship-attending-speaking)
