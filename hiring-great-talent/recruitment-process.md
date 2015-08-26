@@ -12,7 +12,7 @@ Whether you are looking to create a new role or update / improve the success rat
 Future pebble {code} people will learn about pebble {code} from multiple channels, the most visited channels will likely be via our careers page and candidate specification document (which includes a job description). 
 
 **Related Links:**
-[Careers page](http://pebblecode.com/careers/) / [Defining Candidate Specifications](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/defining-candidate-specification.md)
+[Careers page](http://pebblecode.com/careers/) / [Defining Candidate Specifications](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/defining-candidate-specification.md)
 
 ## Sourcing Candidates Via Ads
 
@@ -52,7 +52,7 @@ Some roles will be more difficult to fill than others. Where online advertisemen
 If we find suitable candidates, they should be put into Recruitee (our recruitment platform) into the sourcing section of each role with as much detail as possible.
 
 **Related Links:**
-[Introduction to Recruitee](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/introduction-to-recruitee.md)
+[Introduction to Recruitee](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/introduction-to-recruitee.md)
 
 **Headhunters** - currently we are using [Gravitas](http://www.gravitasrecruitmentgroup.com/) with mixed results, their strengths cover more enterprise level developers i.e using languages .NET, #C and #F. We are currently considering using [Zebra People](http://zebrapeople.com/) who have had success with UX Designers / Front end developers and more recently broadening their candidates skill set. We spoke with [Arran Ross-Paterson](https://twitter.com/arranrp) who sounds like he really understands how to engage with Developers and is likely to introduce the kind of candidates we are looking to hire. 
 
@@ -67,7 +67,7 @@ A few options to consider:
 - Cold phone calls are generally hated by all, but cold emails are not quite as bad. An email is always welcome if it is relevant to the candidates at the right time in their career. 
 
 **Related Links:**
-[Initial Contact Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/initial-contact.md)
+[Initial Contact Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/initial-contact.md)
 
 **Draft Here**
 
@@ -92,4 +92,4 @@ It is important that this is done quickly. We must get the offer into the hands 
 This is the most important thing (inline with client ecstasy) that we will do as a business if we are to grow. We must therefore continually improve this process by running through a retrospective after the hire/no-hire decision. 
 
 **Related Links:**
-[Retrospective Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/retrospective.md)
+[Retrospective Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/retrospective.md)
