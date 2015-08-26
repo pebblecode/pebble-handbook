@@ -75,10 +75,11 @@ Great hires can build a great company but at the same time, poor hires will weak
 
 Essentially what we are looking to understand from the candidates are the following:
 
-- Problem Solving
-- Functional Competence
-- Teamwork
-- Company Fit
+- Problem Solving - can they solve problems autonomously? 
+- Functional Competence - do they have the chops for the job? 
+- Teamwork - can they work well in a team? 
+- Leadership - can they demonstrate confidence? 
+- Company Fit - will they enjoy and thrive in our culture? 
 
 The exact we we approach this will be different depending on the role we are looking to recruit:
 
