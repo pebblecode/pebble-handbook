@@ -16,7 +16,9 @@ Future pebble {code} people will learn about pebble {code} from multiple channel
 
 ## Sourcing Candidates
 
-Some roles will be more difficult to fill, and where online advertisements doesn’t help, you may need to proactively search for these candidates using a number of methods which could include:
+
+
+Some roles will be more difficult to fill than others, and where online advertisements doesn’t help, you may need to proactively search for these candidates using a number of methods which could include:
 
 - Twitter
 - LinkedIn
