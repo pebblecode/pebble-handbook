@@ -7,6 +7,18 @@
 ## Portfolio Review 
 
 ## Phone - Panel Interview
+5 key questions for LCT role: 
+
+- What technologies are you excited about? 
+- Explain a tech stack decision? 
+- Considerations to deliver a highly performant web app?
+- Where do you start with a business problem? (why? user?)
+- What makes a good and productive client delivery team?
+
+(potentially another questions re UX and/or design)
+
+Important to ask the candidate what questions they have about the company or role and answer them honestly. 
+
 
 ## Setup Interview & Identify / Brief Panelists
 The process must be inclusive and enhance cohesion in the team. It is important that every member of the team is onboard with “the sell” and why we are doing this. 
