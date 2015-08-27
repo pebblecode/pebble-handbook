@@ -18,10 +18,10 @@ Much of the content can be borrowed from the Lead Creative Technologist Specific
 
 ### Create Interest
 
-- Company Overview & Potential - Essentially answering the question “Why us?” 
-— How We Work
-— The Market We Work In
-— Our directors & founders
+- Company Overview & Potential (Essentially answering the question “Why us?”) 
+-— How We Work
+-— The Market We Work In
+-— Our directors & founders
 
 **Related Link**
 [About pebble code]()
