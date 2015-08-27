@@ -40,23 +40,23 @@ ByBox
 ## Our People
 We have written books, spoken at conferences, travelled the world, stayed at the bleeding edge of technology and floated technology businesses on the NASDAQ (well our Chairman has!). 
 
-### Stephen Allott
+#### Stephen Allott
 Chairman of the Board.
 Crown Representative for SMEs in the Cabinet Office. Founded the Cambridge Computer Lab Ring and co-founded Trinamo. President, CFO and main director of Micromuse Inc. McKinsey. Sun Microsystems. Xerox. Essex Court Chambers. 
 
-### George Ornbo
+#### George Ornbo
 Managing Director & Co-founder
 Experienced developer, ex-McKinsey, author of Sam’s Teach Yourself Node.js in 24 hours and writes for Guardian on technology matters.
 
-### Toby Hunt
+#### Toby Hunt
 Director & Co-founder
 Board member for various digital businesses, expert in leadership and managing teams on rapid development projects and passionate about affecting positive technological change.
 
-### Alex Butcher
+#### Alex Butcher
 Director & Co-founder
 Software architect specialising in fault tolerant system design. Passionate about continuous delivery and the application of agile and lean principles to improve processes.
 
-### John Mildinhall
+#### John Mildinhall
 Creative Director
 Ph.D. in Experimental Psychology, co-author of Heads up Psychology, and has designed industrial control interfaces, trading systems for global banks, intelligence systems and
 scientific research platforms. Resident UX specialist.
