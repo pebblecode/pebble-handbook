@@ -10,13 +10,13 @@ Reference:
 
 ## Structure Of A Candidate Specification
 
-Much of the content can be borrowed from the Lead Creative Technologist Specification, though in the spirit of Kaizen, we should look to see what examine what part of the copy is working or not working effectively to generate interest from candidates.
+Much of the content can be borrowed from the Lead Creative Technologist Specification, though in the spirit of Kaizen, we should look to see which parts of the copy is working effectively to generate interest from candidates, and which needs extra work or removing.
 
-### Attention 
+### Capture Attention 
 
 - Executive Summary - Brief summary of the the entire candidate specification document
 
-### Interest
+### Create Interest
 
 - Company Overview & Potential - Essentially answering the question “Why us?” 
 — How We Work
@@ -26,7 +26,7 @@ Much of the content can be borrowed from the Lead Creative Technologist Specific
 **Related Link**
 [About pebble code]()
 
-### Desire
+### Make it Desirable
 
 - Clients We Work With - Having clients recognisable to candidates is a huge social proof for candidate.  
 - Work We Do - Talented people want to work with other talented people. Being able to showcase some of the best work we have worked on will help demonstrate to candidates some of the interesting projects they too will be able to be involved in.
@@ -34,7 +34,7 @@ Much of the content can be borrowed from the Lead Creative Technologist Specific
 - Details of the role
 - What we are looking for - this will be covered in the next section 
 
-### Action
+### Call to Action
 
 - Contact us page - with links to corresponding jobs page.
 
