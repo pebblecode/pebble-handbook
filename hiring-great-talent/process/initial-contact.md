@@ -83,16 +83,15 @@ We have brought together some top notch talent in pebble code, not only are they
 We choose the clients you want to help
 We only work on projects that excite us
 
+We are big on experimentation, for us, experimentation is key to innovation and improvement.
+
 We have: 
 ### 10% time
-learn, tinker, teach. Work on things that excite you.
+Learn, Tinker, Teach. Work on things that excite you.
 
 ### Hackday
-every quarter, for one day, you can work on 
-**whatever you want** with **whoever you want** 
+Every quarter, for one day, you can work on **whatever you want** with **whoever you want** 
 Just show us the results at the end of the day
-
-We are big on experimentation, for us, experimentation is key to innovation and improvement.
 
 ## Growing at pebble code
 pebble code has all the best bits of a startup without the volatility and uncertainty. You have the opportunity to wear more than one hat (if you want) and take on new challenges. This could include business development, advocacy (blogging, events, speaking engagements), consultancy, design, development or more.
