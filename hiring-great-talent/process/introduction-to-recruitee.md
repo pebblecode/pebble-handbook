@@ -22,9 +22,13 @@ If you are super desperate - you can find their emails in the whois registration
 Recruitee uses a 5 star rating system. You can add and edit the kind of skills you are looking for in a particular role and the number of stars for our purposes works as follows:  
 
 1 = bad
+
 2 = potential
+
 3 = good
+
 4 = very good (4s get hired, generally)
+
 5 = excellent
 
 ## Notes on candidates
