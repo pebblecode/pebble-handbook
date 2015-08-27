@@ -2,7 +2,7 @@
 Great people are not always going to find us, we’ll need to find  them. This is a sell. If you are approaching a potential candidates you’ll need to make sure you know your stuff. Your 
 first interaction might be the first contact / exposure to pebble code and this means that for the person you approach you will be the face of the company.
 
-If you haven’t done much sales talk or advocated for something much, then hopefully this guide will cover a few grounds for you more clearly. 
+If you haven’t done much sales talk or advocated for something before, hopefully this document will cover the major points that should be covered. 
 
 ## Background
 pebble {code} is a Technical Innovation Consultancy based in Vauxhall, London. We help businesses to innovate like startups and solve the right problems. 
