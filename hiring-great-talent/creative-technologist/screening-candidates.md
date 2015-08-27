@@ -7,10 +7,10 @@
 ## Portfolio Review 
 
 
+## Phone Interview
+The objective of the phone interview is to check that candidates meet all the requirements we are looking for in a Lead Creative Technologist. This means delving deeper into the specifics of the candidates skills and experience discussed in their resume.
 
-
-## Phone - Panel Interview
-The objective of the phone interview is to check that candidates meet all the requirements we are looking for in a Lead Creative Technologist role. This means delving deeper into the specifics of the candidates skills and experience discussed in their resume.
+2 phone interviews will be held, one by a lead developer, and one by a lead designer or director.
 
 Calls should last no longer than 15-20 minutes.
 
@@ -30,10 +30,12 @@ Calls should last no longer than 15-20 minutes.
 
 It’s also important to ask the candidate what questions they have about the company or role and answer them honestly. The questions candidates ask will allow us to have a better understanding about the candidates level of interest in the role.
 
-## Setup Interview & Identify / Brief Panelists
-The process must be inclusive and enhance cohesion in the team. It is important that every member of the team is onboard with “the sell” and why we are doing this. 
+## Panel interviews
+Panel interviews are face to face interviews and involve folks in our senior delivery team. Not only do the candidate have to impress us, we too will need impress the candidate too. 
 
-Panelists should be our most impressive people - they need to be the most discriminating and must impress the interviewee. Panels must be briefed on the candidate specification, process, scoring system and why this is such a great opportunity - they must believe! 
+The panel interviews will last just over 2 hours for the candidate and will include 3 - 40 minute sessions with a technology lead, a design lead and a consultancy lead.
+
+Panels must be briefed on the candidate specification, process, scoring system and why this is such a great opportunity - they must believe! 
 
 On interview day, we will use a bottom up 3 panel system with a Technology Lead, Design Lead, and a Consultancy Lead.
 
