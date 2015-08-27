@@ -16,9 +16,7 @@ pebble {code} was founded in 2010 on the basic principles of:
 We have an office full of highly talented people and very happy clients. This has allowed us to build a great working environment. 
 
 ## Our Work
-Our enterprise clients cannot innovate with technology as well as they can with us. They don’t have the talent, nor the culture.
- 
-We help our clients to embed a culture of technical innovation, continuous improvement and rapid delivery.
+Our enterprise clients cannot innovate with technology as well as they can with us. They don’t have the talent, nor the culture, so we are here to help them embed a culture of technical innovation, continuous improvement and rapid delivery.
 
 ### We have built: 
 - Online gaming platforms with multiple gaming engines from the ground up
@@ -71,10 +69,12 @@ Currently 30 strong in a fun and spacious working environment in Vauxhall, Londo
 
 In just 5 years we have built a business turning over more than £2m and set to grow.
 
-This is an incredibly exciting time to join a growth business like pebble {code} and make a real difference. 
+It's an exciting time to join a growth business like pebble {code} and make a real difference. 
 
 ## So why pebble code?
-We’re small, and that’s a good thing. You’ll never feel like a tiny cog in a huge machine. We don’t have strict work practices here; no outmoded coding standards and draconian time management.
+We’re small, and that’s a good thing. You’ll never feel like a tiny cog in a huge machine. We have a very flat management structure and focused heavily on continual improvement - and as such crave feedback - do not be shy! 
+
+We don’t have strict work practices here; no outmoded coding standards and draconian time management and we're a results only working environment.
 
 At pebble code, you are guaranteed to be a key part of our team from day one.
  
