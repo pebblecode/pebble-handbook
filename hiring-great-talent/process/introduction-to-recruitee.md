@@ -31,10 +31,23 @@ Recruitee uses a 5 star rating system. You can add and edit the kind of skills y
 
 5 = excellent
 
-## Notes on candidates
+## Notes on Candidates
+Recruitee is a collaborative platform, and the idea is that any team member can step in to help with the recruitment process. On the candidates profile page, there will be a section to the right for leaving small notes. Think of them as notes you want to leave for the next person looking at the candidate. If you have gotten in touch with someone, know the candidate or any other useful information that might be good to know, this is a handy place to leave a note.
 
 ## Communicating with candidates
+In all candidate profile, their is an EMAILS tab where the team can use to communicate with the candidate. It’s best to send all your email communications via Recruitee because this allows other members of your team to see the conversation evolve and follow up accordingly.
+
+One thing to also consider taking advantage of is the email templates available. You can add your own templates here too.
+
+\* If you are sourcing candidate, you will need to find that persons email address using a little detective skills
 
 ## Moving candidates to another stage
+If you have reviewed a candidate and would to move them to the next stage, there are 2 ways to do this:
+- You can drag and drop candidates to the stage you want them to go in.
+- You can click on the arrow button on the top right of the candidate profile and select the stage you want to put them in.
 
 ## Disqualifying Candidates
+Before disqualifying a candidates, there are a few things you will want to consider doing.
+- Make sure to leave your review to let others know why you made that decision.
+- Send an email to the candidate to let them know they didn’t make it to the next stage. If you have done a face to face interview, it will be more courteous to tell the candidate why they didn’t make it to the next round. 
+- On the candidate profile, click on the circle with a cross button not the top right. 
