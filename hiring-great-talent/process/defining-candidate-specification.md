@@ -29,7 +29,7 @@ Much of the content can be borrowed from the Lead Creative Technologist Specific
 ### Make it Desirable
 
 - Clients We Work With - Having clients recognisable to candidates is a huge social proof for candidate.  
-- Work We Do - Talented people want to work with other talented people. Being able to showcase some of the best work we have worked on will help demonstrate to candidates some of the interesting projects they too will be able to be involved in.
+- Work We Do - Talented people want to work with other talented people. Being able to showcase some of the best work we have worked on will help give candidates a taster of some of the interesting problems they will be able to be work on.
 - Some of Our Benefits
 - Details of the role
 - What we are looking for - this will be covered in the next section 
