@@ -1,5 +1,4 @@
-
-#Screening Candidates
+#Screening Candidates - Draft
 
 Candidate screening is the process that is designed to assess deal-breakers up front. This means that we can discount people who are clearly unsuitable. For example, if the candidate has no evidence of any relevant experience, writes ungrammatical sentences, or from a basic internet search appears to be a neo-Nazi, then we are never going to employ them. By doing this first, we save ourselves a large amount of time.
 
