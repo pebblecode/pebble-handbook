@@ -26,13 +26,13 @@ Our enterprise clients cannot innovate with technology as well as they can with 
 ### We have worked with: 
 Over our 5 years, we have worked with many different clients across a number of industries. Recently we have been working with:  
 
-AstraZeneca
-Bede Gaming
-Al Jazeera Media Network
-Lloyds Banking Group
-National Express
-Cancer Research UK
-ByBox
+- AstraZeneca
+- Bede Gaming
+- Al Jazeera Media Network
+- Lloyds Banking Group
+- National Express
+- Cancer Research UK
+- ByBox
 
 ## Our People
 We have written books, spoken at conferences, travelled the world, stayed at the bleeding edge of technology and floated technology businesses on the NASDAQ (well our Chairman has!). 
