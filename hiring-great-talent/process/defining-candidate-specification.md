@@ -9,9 +9,9 @@ Reference:
 [Lead Creative Technologist Specification](https://www.dropbox.com/sh/umoor8d6zjd3v4c/AAB9JHWP9H6ZXpBJfCwLNkBYa?dl=0). Draft
 
 ## Solving the right problem
-If you are asked to look recruit someone for pebble, you should also ask the same question we pose to our clients, “Whats the problem you are trying to solve”. Some projects needs more hands on deck, but if we are looking to hire someone with skill sets we have never hired before, it will make your life easier creating the candidate specification if you understood why we need to make such a hire. 
+If you are asked to look recruit someone for pebble, you should also ask the same question we pose to our clients, “Whats the problem you are trying to solve”. Some projects needs more hands on deck, but if we are looking to hire someone with skill sets we have never hired before, it will make creating the candidate specification easier if you understood why we need to make such a hire. 
 
-Look at our hiring like any other business challenge and identify which problem actually needed solving. What is the challenge pebble code has and what do we need to do to overcome that problem?
+Look at our hiring like any other business challenge and identify which problem actually needed solving. What is the business challenge / Problem pebble code has and what do does the solution look like. 
 
 ## Candidate Attributes
 Most job specifications list tasks employers expect their employees to fulfil. Our approach focuses on the attributes of the person we are looking to bring into our team.
