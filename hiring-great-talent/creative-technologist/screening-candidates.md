@@ -33,20 +33,17 @@ It’s also important to ask the candidate what questions they have about the co
 ## Panel interviews
 Panel interviews are face to face interviews and involve folks in our senior delivery team. Not only do the candidate have to impress us, we too will need impress the candidates. 
 
-The panel interviews will last just over 2 hours for the candidate and will include 3 - 40 minute sessions with a technology lead, a design lead and a consultancy lead.
+The panel interviews will last just over 2 hours and will include 3 - 40 minute sessions with a technology lead, a design lead and a consultancy lead.
 
-Panels must be briefed on the candidate specification, process, scoring system and why this is such a great opportunity - they must believe! 
-
-On interview day, we will use a bottom up 3 panel system with a Technology Lead, Design Lead, and a Consultancy Lead.
-
+Panels will need to be briefed on the candidate specification, process, scoring system and why this is such a great opportunity - they must believe! 
 
 **Related Links**
 [Initial Contact Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/initial-contact.md) 
 
-## Prepare Interview Pack for Panelists
+### Prepare Interview Pack for Panelists
 Each panelist should have an interview pack, complete with CV, other relevant information, scoring sheet and any notes from previous interactions or interviews. 
 
-## Face to Face - Panel interview
+### Interview Scoring
 Each panel will have the candidate for just under 1 hour and be assessed, out of 5 (so that it matches the reviewing stars on Recruitee), on: Problem Solving, Leadership, Teamwork, Functional Competence, Company Fit. 
 
 Each member of the panel will be given a scoring sheet and some guidance. As a rule, 4 and above is a hire… below is a no-hire! At the end of the process all scores will be totalled up and an average taken. 
