@@ -97,9 +97,13 @@ If after the face to face interview, the team you are working with collectively 
 
 ## Retrospective
 
-Our hiring processes is a continuously evolving process. As pebble {code} grows, so too will our hiring needs. It is important for us to run retrospectives on our hiring process in the same way we do for client projects.
+The goal of our hiring retrospectives is to find out whats working and what isn’t so we can continuously improve all aspects of our recruitment efforts. 
 
-Our goal is to identify actions that can help us improve our hiring process and eliminating unreasonable work and fully draw on the creativity of pebble folks through experimentation.
+Retrospectives are normally held at the end a project sprint. Hiring Retrospectives will depend on the level of your recruitment activity and your teams availability. 
+
+For an ongoing recruitment like the developer and designer where  there is already good traction, a retrospective should be held after each new hire.
+
+For new roles that might not have a lot of traction in attracting candidate organically such as the lead creative technologist, you will need to run retrospective more frequently as so that you can quickly make improvements in your process.
  
 **Related Links:**
 [Retrospective Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/process/retrospective.md)
