@@ -17,15 +17,15 @@ Calls should last no longer than 15-20 minutes.
 5 key questions for LCT role: 
 
 - What technologies are you excited about? 
-— Check that candidates are passionate about learning new technologies
+  — Check that candidates are passionate about learning new technologies
 - Explain a tech stack decision? 
-— polyglot technologist with experience of delivering products with different technology
+  — polyglot technologist with experience of delivering products with different technology
 - Considerations to deliver a highly performant web app?
-— Solid understanding of the technical capabilities or limitations when architecting solutions.
+  — Solid understanding of the technical capabilities or limitations when architecting solutions.
 - Where do you start with a business problem? (why? user?)
-— Communication level and potential as a problem solver
+  — Communication level and potential as a problem solver
 - What makes a good and productive client delivery team?
-— Experience acting as a hub between clients and the delivery team
+  — Experience acting as a hub between clients and the delivery team
 (potentially another questions re UX and/or design)
 
 It’s also important to ask the candidate what questions they have about the company or role and answer them honestly. The questions candidates ask will allow us to have a better understanding about the candidates level of interest in the role.
