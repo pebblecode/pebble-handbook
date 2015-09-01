@@ -49,6 +49,23 @@ Some roles will be more difficult to fill than others. Where online advertisemen
 - Universities 
 - Headhunters (last resort if possible)*
 
+### Sourcing Candidates Via Competitors
+There are many companies that now call themselves innovation consultancies. These could be businesses with a strong background in market research or in software development.
+
+If you want to explore sourcing candidates from businesses similar to pebble code, you might want to look at folks from the following companies. 
+
+**Developer track** 
+Red Badger
+Kainos
+Thought Works
+Pivitol Labs
+Adaptive Labs
+
+**Design Track**
+Frog Design
+Fjord (Part of Accenture)
+IDEO
+
 If you find suitable candidates, you can put them into the sourcing section of Recruitee (our recruitment platform).
 
 **Related Links:**
