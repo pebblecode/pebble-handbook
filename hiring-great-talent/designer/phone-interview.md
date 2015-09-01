@@ -4,9 +4,10 @@ This is an important step in the process as it can quickly weed out those candid
 ##Overview
 The phone interview should last no more than twenty minutes. The interviewer should set this expectation up front. He or she should let the interviewee know that the purpose of the interview is to say hi, get an idea of what they are like as a person, and some insight into what they've been doing recently.
 
-The purpose of the interview is to get at whether there are any "must-haves" that are lacking. The most important ones at this stage are:
+The purpose of the interview is to get at whether there are any "must-haves" that are lacking. The 3 most important ones at this stage are:
 
 4. Candidates have excellent interpersonal/client facing skills
+6. Candidates are critical thinkers
 7. Portfolios are truly the work of the candidates.
 
 General questions will cover 3), and the Deep Dive will cover 6).
