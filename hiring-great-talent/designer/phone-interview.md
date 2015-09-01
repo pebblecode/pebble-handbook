@@ -32,4 +32,7 @@ In order to establish the level at which the candidate has contributed to projec
 The interviewer should not be afraid to push a candidate on a point if they feel that they have not received a satisfactory answer. The candidate's reaction to being pressured can be revealing as to how they would deal with similar client situations. 
 
 ###Candidate Questions
-The interviewer should reserve at least three minutes of the interview to deal with any questions that the candidate may have. If the candidate is truly interested in working at pebble {code} then we would expect them to have at least a few of these. In most cases you should be able to answer in a useful and succinct manner, but if the question is inappropriate or would entail a very long answer, don't be afraid to 
+The interviewer should reserve at least three minutes of the interview to deal with any questions that the candidate may have. If the candidate is truly interested in working at pebble {code} then we would expect them to have at least a few of these. In most cases you should be able to answer in a useful and succinct manner, but if the question is inappropriate or would entail a very long answer, don't be afraid to say that you can't provide a full answer now.
+
+###Closing Script
+> We've got to the end of the time allocated today. We have a number of these calls to make, so we will get back to you as soon as possible. The next step for successful candidates is a face to face interview, where we would ask you more in-depth questions about your work, and we would perform a collaborative design exercise. 
