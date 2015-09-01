@@ -9,7 +9,8 @@ Here is a brief overview of the kind of things we look out for when we review a 
 - **Companies** - Thomson Reuter for example maybe very traditional and corporate like. Folks from these businesses may not fit in well culturally and may prefer something more rigid.
 - **Industry**: Ad background may bring people from a very salesy back ground and only interested in stuff that is buzz worthy
 - **Leading Teams**:
-  — Working in a cross functional team 
+- 
+  - Working in a cross functional team 
   — Working directly with designers or design teams
   — Speaks the language and principles of UX
   — Has an opinion and able to articulate the design to development workflow
