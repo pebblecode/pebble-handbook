@@ -1,2 +1,18 @@
 # Phone Interview Guidance
-This is an important step in the process as it can quickly weed out those candidates that just have a good CV or social presence. We have phone interview guidance in the link below that includes what areas to focus on assessing. If successful, candidate should be moved along a stage in Recruitee. 
+This is an important step in the process as it can quickly weed out those candidates that just have a good CV or social presence. We have phone interview guidance below. If successful, candidate should be moved along a stage in Recruitee. 
+
+##Phone Interview Guidance
+The phone interview should last no more than twenty minutes. The interviewer should set this expectation up front. He or she should let the interviewee know that the purpose of the interview is to say hi, get an idea of what they are like as a person, and some insight into what they've been doing recently.
+
+Some obvious and simple questions should be asked at this stage. If the candidate does not have a clear answer to, for example, why they want to work at pebble {code}, they should not progress to the interview stage.
+
+###Example Questions
+* What attracts you about working at pebble {code}?
+* How do you make sure you design the right product?
+* What is the project you are most proud of?
+* Can you tell me about a time when you dealt with a difficult client?
+* What is the role of prototyping in software design?
+* What is the role of emotion in design?
+
+###Deep Dive
+In order to establish the level at which the candidate has contributed to projects, the interviewer takes a single example from the candidate's portfolio. By asking a set of questions about this particular example, we can verify the extent to which the work is the candidate's own, and how well they are able to articulate the decision making process that went into its creation. Typical questions concern a particular decision - "how did you come to the decision to use that particular pattern?" is a useful question. The interviewer should not be afraid to push a candidate on a point if they feel that they have not received a satisfactory answer. The candidate's reaction to being pressure can be revealing as to how they would deal with similar client situations. 
