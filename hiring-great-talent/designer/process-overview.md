@@ -8,6 +8,7 @@ Design interviews are standardised to minimise the chance of recruitment errors.
 * We hire the right people.
 
 The process is:
+
 1. Assess CV
 
 2. Assess Portfolio
