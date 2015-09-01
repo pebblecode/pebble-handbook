@@ -6,8 +6,11 @@ Candidate screening is the process that is designed to assess whether candidates
 The first thing to look at is the CV. Using the "must-haves" from the overview, we look at four tests:
  		
 1\. Candidates have an appropriate higher education qualification
+
 2\. Candidates have appropriate experience
+
 4\. Candidates have good spelling and grammar
+
 7\. Candidates have some front-end skills
 
 
