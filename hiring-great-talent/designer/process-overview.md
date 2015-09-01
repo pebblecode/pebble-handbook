@@ -9,15 +9,11 @@ Design interviews are standardised to minimise the chance of recruitment errors.
 
 The process is:
 
-1. Assess CV
-
-2. Assess Portfolio
-
-3. Phone Interview
-
-4. Face-to-Face Interview
-
-5. Make Offer
+1. Assess CV  
+2. Assess Portfolio  
+3. Phone Interview  
+4. Face-to-Face Interview  
+5. Make Offer  
 
 ##Fail Fast Interview Process
 
@@ -25,21 +21,14 @@ We are all very busy, and recruitment can often seem like a chore that distracts
 
 ‘Must-haves’ are attributes that we all agree candidates should have. Here are the key ‘must-haves’:
 
-1. Candidates have an appropriate higher education qualification
-
-2. Candidates have appropriate experience
-
-3. Candidates have excellent design skills
-
-4. Candidates have good spelling and grammar
-
-5. Candidates have excellent interpersonal/client facing skills
-
-6. Candidates are critical thinkers
-
-7. Candidates have some front-end skills
-
-8. Portfolios are truly the work of the candidates.
+1. Candidates have an appropriate higher education qualification  
+2. Candidates have appropriate experience  
+3. Candidates have excellent design skills  
+4. Candidates have good spelling and grammar  
+5. Candidates have excellent interpersonal/client facing skills  
+6. Candidates are critical thinkers  
+7. Candidates have some front-end skills  
+8. Portfolios are truly the work of the candidates  
 
 
 Our interview process is designed to establish as soon as possible whether candidates meet the requirements of our ‘must-haves’. As a general approach, we assume up front that their CV is nonsense, and their portfolio is the work of someone else. The role of the interview process is for us to attempt to disprove this assumption. 
