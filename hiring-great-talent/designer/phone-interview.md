@@ -10,7 +10,7 @@ The purpose of the interview is to get at whether there are any "must-haves" tha
 6. Candidates are critical thinkers
 7. Portfolios are truly the work of the candidates.
 
-General questions will cover 3), and the Deep Dive will cover 6).
+General questions will cover 3), and the Deep Dive will cover 6) and 7).
 
 ###General Questions
 
