@@ -1,11 +1,22 @@
 # Process Overview - Designer Interviews
 
+##TL;DR
+
 Design interviews are standardised to minimise the chance of recruitment errors. This is for everyone’s benefit, as mis-hires are disruptive to everyone. This document is the go-to reference for conducting design interviews to ensure:
 * We interview in a professional manner;
 * We establish as soon as possible if candidates are missing a ‘must-have’, thereby saving time;
 * We hire the right people.
 
-## The Candidate Screening Process - Establishing Must-Haves
+The process is:
+1. Assess CV
+2. Assess Portfolio
+3. Phone Interview
+4. Face-to-Face Interview
+5. Make Offer
+
+##Fail Fast Interview Process
+
+We are all very busy, and recruitment can often seem like a chore that distracts us from our "proper" job. However, recruitment is vital to the succsess of the business. Given these two facts, we need to be highly efficient at conducting our recruitment process. This means that we need to find out as quickly as possible whether candidates are suitable or not for pebble {code}. This means that we need people to fail fast, if they are going to fail. In order to do this, we focus on the "must-haves"
 
 ‘Must-haves’ are attributes that we all agree candidates should have. Here are the key ‘must-haves’:
 1. Candidates have an appropriate higher education qualification
