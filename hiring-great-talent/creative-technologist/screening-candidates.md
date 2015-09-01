@@ -1,6 +1,20 @@
 # Screening Candidates - Creative Technologist - Draft
 
 ## CV
+Here is a brief overview of the kind of things we look out for when we review a CV or a Linkedin profile:
+
+- **Years**: We looking for indications that the candidates are polyglot technologists who have a good understanding of software architecture, this could be least 4/5 years working experience in software development but depends on the individual
+- **Title**: Titles starting with Lead or Senior are worth further inspection. Director level could be looking for much high salary expectation
+- **Tech**:  C++ and Java is not what we are looking for (People with these skills tend to be more corporate/enterprise background). Look for open source technology like Go lang, Rust, JS, Ruby, PHP, Perl, Obj-C, Python etc… Working with Api’s and, Web performances is a distinct plus.
+- **Companies** - Thomson Reuter for example maybe very traditional and corporate like. Folks from these businesses may not fit in well culturally and may prefer something more rigid.
+- **Industry**: Ad background may bring people from a very salesy back ground and only interested in stuff that is buzz worthy
+- **Leading Teams**:
+-- Working in a cross functional team 
+-- Working directly with designers or design teams
+-- Speaks the language and principles of UX
+-- Has an opinion and able to articulate the design to development workflow
+-- How to prioritise features
+-- Understands how design fits into Agile workflow
 
 ## Github Code Review 
 
