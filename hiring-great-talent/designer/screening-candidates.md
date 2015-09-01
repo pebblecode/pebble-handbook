@@ -31,12 +31,12 @@ It is essential to assess the quality of a designer's prior work. The key way of
 There are 4 "must-have" tests we look at for portfolio assessment:
 
 3\. Candidates have excellent design skills
-	* Quality of Work
-	* Varied Work
-	* Typography skills
-	* Layout skills
-	* Architecture Skills
-	* Aesthetic Skills
+	* Quality of Work  
+	* Varied Work  
+	* Typography skills  
+	* Layout skills  
+	* Architecture Skills  
+	* Aesthetic Skills  
 
 6\. Candidates are critical thinkers
 	* Show Process from Start to Finish
