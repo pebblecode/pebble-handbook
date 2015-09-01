@@ -1,12 +1,20 @@
 # Phone Interview Guidance
 This is an important step in the process as it can quickly weed out those candidates that just have a good CV or social presence. We have phone interview guidance below. If successful, candidate should be moved along a stage in Recruitee. 
 
-##Phone Interview Guidance
+##Overview
 The phone interview should last no more than twenty minutes. The interviewer should set this expectation up front. He or she should let the interviewee know that the purpose of the interview is to say hi, get an idea of what they are like as a person, and some insight into what they've been doing recently.
+
+The purpose of the interview is to get at whether there are any "must-haves" that are lacking. The most important ones at this stage are:
+
+4. Candidates have excellent interpersonal/client facing skills
+7. Portfolios are truly the work of the candidates.
+
+General questions will cover 3), and the Deep Dive will cover 6).
+
+###General Questions
 
 Some obvious and simple questions should be asked at this stage. If the candidate does not have a clear answer to, for example, why they want to work at pebble {code}, they should not progress to the interview stage.
 
-###Example Questions
 * What attracts you about working at pebble {code}?
 * How do you make sure you design the right product?
 * What is the project you are most proud of?
