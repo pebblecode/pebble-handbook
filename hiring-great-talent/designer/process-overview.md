@@ -9,9 +9,13 @@ Design interviews are standardised to minimise the chance of recruitment errors.
 
 The process is:
 1. Assess CV
+
 2. Assess Portfolio
+
 3. Phone Interview
+
 4. Face-to-Face Interview
+
 5. Make Offer
 
 ##Fail Fast Interview Process
