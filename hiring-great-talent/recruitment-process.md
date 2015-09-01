@@ -55,16 +55,16 @@ There are many companies that now call themselves innovation consultancies. Thes
 If you want to explore sourcing candidates from businesses similar to pebble code, you might want to look at folks from the following companies. 
 
 **Developer track** 
-Red Badger
-Kainos
-Thought Works
-Pivitol Labs
-Adaptive Labs
+- Red Badger
+- Kainos
+- Thought Works
+- Pivitol Labs
+- Adaptive Labs
 
 **Design Track**
-Frog Design
-Fjord (Part of Accenture)
-IDEO
+- Frog Design
+- Fjord (Part of Accenture)
+- IDEO
 
 If you find suitable candidates, you can put them into the sourcing section of Recruitee (our recruitment platform).
 
