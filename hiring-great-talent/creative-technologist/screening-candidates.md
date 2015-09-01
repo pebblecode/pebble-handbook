@@ -10,11 +10,11 @@ Here is a brief overview of the kind of things we look out for when we review a 
 - **Industry**: Ad background may bring people from a very salesy back ground and only interested in stuff that is buzz worthy
 - **Leading Teams**:
   - Working in a cross functional team 
-  — Working directly with designers or design teams
-  — Speaks the language and principles of UX
-  — Has an opinion and able to articulate the design to development workflow
-  — How to prioritise features
-  — Understands how design fits into Agile workflow
+  - Working directly with designers or design teams
+  - Speaks the language and principles of UX
+  - Has an opinion and able to articulate the design to development workflow
+  - How to prioritise features
+  - Understands how design fits into Agile workflow
 
 ## Github Code Review 
 
