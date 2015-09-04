@@ -21,13 +21,13 @@
 
     We like to evaluate candidates using real-life examples of code that they've worked on. You can bring in examples of some of your work to talk through with us. Ideally this would be from a professional context, but we know that this isn't always possible, so it could be something you've worked on in your own time. Please note however, we're looking for examples where you've had to solve a real-world problem, so a first-time tinker trying to learn a technology you've never used before may not be the best option. We'll be expecting you to show us the code, talk us through it, explaining the initial problem, how you decided what to build, your choice of technology, things you did, things you didn't do, why etc etc.
 
-        If you feel you don't have anything suitable, that's not a problem. Instead, we'll ask that you complete a mini-coding exercise for us, and we'll use that to talk through when you come in.
+    If you feel you don't have anything suitable, that's not a problem. Instead, we'll ask that you complete a mini-coding exercise for us, and we'll use that to talk through when you come in.
 
   4. **In person interview(s)** (~90mins, either 3 x 30mins or 2 x 45mins)
 
     You'll meet various members of the company, and be interviewed by at least one of the dev team, and someone from senior management team (SMT). The dev team interview will focus further on your functional competencies, including the code example mentioned above. You may also do some pairing during this session, either on the code you brought in, or on something that we're working on atm. This bit isn't aimed at evaluating your coding ability, as we'll already have a view on that, more how you work in collaboration with others and on your thought-process.
 
-        The SMT interview will be the final step, where you'll talk with one of the founders. They play an active role in hiring, and have interviewed pretty much everyone that works here now, so they have a good idea of what they're looking for. You won't be doing any further exercises during this one, instead it'll be about getting to know you a bit more, and for them to determine whether you're right for pebble{code}, and vice versa.
+    The SMT interview will be the final step, where you'll talk with one of the founders. They play an active role in hiring, and have interviewed pretty much everyone that works here now, so they have a good idea of what they're looking for. You won't be doing any further exercises during this one, instead it'll be about getting to know you a bit more, and for them to determine whether you're right for pebble{code}, and vice versa.
 
   5. **Decision**
 
