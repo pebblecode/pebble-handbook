@@ -15,6 +15,7 @@ What are the 5(?) traits that we evaluate candidates on?
 
 ## Phone Interview 1 
 (~10-15mins)
+
 Tell us about you, your experience, what you’re looking for, why you’re interested in pebble{code}. We’ll tell you about us, what we do, how we do it, what we’re currently working on, our aims & some challenges we’re facing. If both sides are happy with what they hear, we’ll proceed to the next stage.
 
 If it helps, it might be useful to use the following 5 Questions to help us quickly screen candidates
