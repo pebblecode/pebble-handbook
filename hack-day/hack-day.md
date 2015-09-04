@@ -1,7 +1,7 @@
 # Hack Day Preparation
 At the moment Hack days are run quarterly and usually held on the last Friday of the month. When setting a date, be careful that the date is not next to a Bank Holiday.
 
-For the Hack Day projects, we will set a theme for the event, but they are not required to follow the theme if they have something else they want to work on.
+For the Hack Day projects, we can set a theme for the event, but folks are not required to follow the theme if they have something else they want to work on.
 
 When you announce the event, be sure to remind the folks leading projects to update their clients so that critical deliverables don't fall on that date.
 
