@@ -13,11 +13,11 @@
 
     Tell us about you, your experience, what you're looking for, why you're interested in pebble{code}. We'll tell you about us, what we do, how we do it, what we're currently working on, our aims & some challenges we're facing. If both sides are happy with what they hear, we'll proceed to the next stage.
 
-    2. **Phone interview 2** (~20-30mins)
+  2. **Phone interview 2** (~20-30mins)
 
     A more tech oriented chat, where we'll talk about your past experience, tech and tools you've used, why you used it, your thoughts on it, what did you like about it/what didn't you like etc.
 
-    3. **Code**
+  3. **Code**
 
     We like to evaluate candidates using real-life examples of code that they've worked on. You can bring in examples of some of your work to talk through with us. Ideally this would be from a professional context, but we know that this isn't always possible, so it could be something you've worked on in your own time. Please note however, we're looking for examples where you've had to solve a real-world problem, so a first-time tinker trying to learn a technology you've never used before may not be the best option. We'll be expecting you to show us the code, talk us through it, explaining the initial problem, how you decided what to build, your choice of technology, things you did, things you didn't do, why etc etc.
 
