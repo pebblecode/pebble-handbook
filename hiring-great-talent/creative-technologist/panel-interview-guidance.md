@@ -32,8 +32,8 @@ Understand how designers and developers can best work together
 Do they have experience bringing together both design and development team members to develop a solution?
 
 ### Consultancy Panel
-Successful problem solving requires finding the right solution to the right problem. We'll need to see how the candidates approach solving problems for their clients. This includes fully understanding the problem space, and identifying the problems they need to focus on. 
-They will need to be an excellent communicator, able to explain, persuade and justify decisions to strong technical teams and non technical clients alike, able to see the wood for the trees and not afraid to point out difficult truths. We are looking for someone that has the confidence to say no rather than nod along to requirements.
+Successful problem solving requires finding the right solutions to the right problem. We'll need to see how the candidate solves problems for their clients. Do they try to fully understanding the problem space, before identifying the problems they need to focus on?
+Are they an excellent communicator, able to explain, persuade and justify decisions to strong technical teams and non technical clients alike, able to see the wood for the trees and not afraid to point out difficult truths. We are looking for someone that has the confidence to say no rather than nod along to requirements.
 
 **Related Links**
 [Panel Interviews Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/creative-technologist/panel-interview-guidance.md) / [Scoring sheet](https://docs.google.com/document/d/1bk59j77QOH-uEgQhtY-u4WC-mEDZ604rjY54cTtAue0/edit)
