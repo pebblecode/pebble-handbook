@@ -39,11 +39,14 @@ Tell us about you, your experience, what you’re looking for, why you’re int
 If it helps, it might be useful to use the following 5 Questions to help us quickly screen candidates
 
 - What technologies / frameworks / tools are you hoping to be able to try out soon? 
- **(Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in)**
+
+ *(Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in)*
 - How would you compare Angular, Backbone and React? 
- **(Firstly tells us that they know a little bit about these, secondly that they can objectively compare things)**
+
+ *(Firstly tells us that they know a little bit about these, secondly that they can objectively compare things)*
 - How do you follow the latest tech news? 
- **(Looking out for them attending meetups, following good developers on e.g. Twitter, etc.)**
+
+ *(Looking out for them attending meetups, following good developers on e.g. Twitter, etc.)*
 
 ## Phone Interview 2 
 (~20-30mins)
