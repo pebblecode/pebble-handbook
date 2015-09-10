@@ -13,6 +13,21 @@ What are the 5(?) traits that we evaluate candidates on?
 
 ## Github Code Review 
 
+Must haves:
+- Github (or similar) account with at least a few repositories
+- Decent code style; readable, comments, READMEs etc.
+
+Should haves:
+- Working on their own interesting problems / contributing to open source projects
+- Demonstration of core skills/competencies we're looking for (i.e. JavaScript, SPAs and Node if for Full Stack JS role)
+- Technology breadth; mix of front-end and back-end code
+
+Nice-to-haves:
+- Polyglot; coding in different languages
+- Any projects that make us go "hey, that's cool!"
+- Worked on popular projects
+
+
 ## Phone Interview
 This is an important step in the process as it can quickly weed out those candidates that just have a good CV or social presence. We have phone interview guidance in the link below that includes what areas to focus on assessing. If successful, candidate should be moved along a stage in Recruitee.
 
@@ -24,11 +39,11 @@ Tell us about you, your experience, what you’re looking for, why you’re int
 If it helps, it might be useful to use the following 5 Questions to help us quickly screen candidates
 
 - What technologies / frameworks / tools are you hoping to be able to try out soon? 
-— Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in
+ (Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in)
 - How would you compare Angular, Backbone and React? 
-— Firstly tells us that they know a little bit about these, secondly that they can objectively compare things
+ (Firstly tells us that they know a little bit about these, secondly that they can objectively compare things)
 - How do you follow the latest tech news? 
-— Looking out for them attending meetups, following good developers on e.g. Twitter, etc.
+ (Looking out for them attending meetups, following good developers on e.g. Twitter, etc.)
 
 ## Phone Interview 2 
 (~20-30mins)
