@@ -64,7 +64,7 @@ If it helps, it might be useful to use up to 5 from the following questions, to 
  
 - Could you briefly explain prototypal inheritance for me?
 
- *(Check they understand JavaScript fundamentals and can compare to classical OOP. Probably one for more junior candidates as more experienced developers might sigh at this old question coming up and feel put off.)*
+ *(Check they understand JavaScript fundamentals and can compare to classical OOP. Probably one for more junior candidates as more experienced developers might sigh at this age-old question coming up.)*
 
 ## Phone Interview 2 
 (~20-30mins)
