@@ -38,33 +38,33 @@ Tell us about you, your experience, what you’re looking for, why you’re int
 
 If it helps, it might be useful to use up to 5 from the following questions, to help us quickly screen candidates:
 
-- What technologies / frameworks / tools are you hoping to be able to try out soon? 
+* What technologies / frameworks / tools are you hoping to be able to try out soon? 
 
- *(Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in.)*
- 
-- How do you follow the latest tech news? 
+    * *(Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in.)*
 
- *(Looking out for them attending meetups, following good developers on social media, etc.)*
- 
-- How would you compare Angular, Backbone and React? 
+* How do you follow the latest tech news? 
 
- *(Firstly tells us that they know a little bit about these, secondly that they can objectively compare things.)*
- 
-- What tools or libraries do you most rely on?
+    * *(Looking out for them attending meetups, following good developers on social media, etc.)*
 
- *(Slightly trick question as we don't really want them to be reliant on libraries. A flag would be raised, for example, if they say they couldn't live without JQuery.)*
- 
-- What kind of optimisations might you want to make for a mobile web app?
+* How would you compare Angular, Backbone and React? 
 
- *(Check they consider things such as minification, image optimisation, offline caching, request batching...)*
- 
-- Do you prefer Promises or Callbacks and why?
+    * *(Firstly tells us that they know a little bit about these, secondly that they can objectively compare things.)*
 
- *(Check they have a basic understanding of core JavaScript constructs, are up to date enough to know about promises support, and can discuss differences.)*
- 
-- Could you briefly explain prototypal inheritance for me?
+* What tools or libraries do you most rely on?
 
- *(Check they understand JavaScript fundamentals and can compare to classical OOP. Probably one for more junior candidates as more experienced developers might sigh at this age-old question coming up.)*
+    * *(Slightly trick question as we don't really want them to be reliant on libraries. A flag would be raised, for example, if they say they couldn't live without JQuery.)*
+
+* What kind of optimisations might you want to make for a mobile web app?
+
+    * *(Check they consider things such as minification, image optimisation, offline caching, request batching...)*
+
+* Do you prefer Promises or Callbacks and why?
+
+    * *(Check they have a basic understanding of core JavaScript constructs, are up to date enough to know about promises support, and can discuss differences.)*
+
+* Could you briefly explain prototypal inheritance for me?
+
+    * *(Check they understand JavaScript fundamentals and can compare to classical OOP. Probably one for more junior candidates as more experienced developers might sigh at this age-old question coming up.)*
 
 ## Phone Interview 2 
 (~20-30mins)
