@@ -36,17 +36,35 @@ This is an important step in the process as it can quickly weed out those candid
 
 Tell us about you, your experience, what you’re looking for, why you’re interested in pebble{code}. We’ll tell you about us, what we do, how we do it, what we’re currently working on, our aims & some challenges we’re facing. If both sides are happy with what they hear, we’ll proceed to the next stage.
 
-If it helps, it might be useful to use the following 5 Questions to help us quickly screen candidates
+If it helps, it might be useful to use up to 5 from the following questions, to help us quickly screen candidates:
 
 - What technologies / frameworks / tools are you hoping to be able to try out soon? 
 
- *(Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in)*
-- How would you compare Angular, Backbone and React? 
-
- *(Firstly tells us that they know a little bit about these, secondly that they can objectively compare things)*
+ *(Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in.)*
+ 
 - How do you follow the latest tech news? 
 
- *(Looking out for them attending meetups, following good developers on e.g. Twitter, etc.)*
+ *(Looking out for them attending meetups, following good developers on social media, etc.)*
+ 
+- How would you compare Angular, Backbone and React? 
+
+ *(Firstly tells us that they know a little bit about these, secondly that they can objectively compare things.)*
+ 
+- What tools or libraries do you most rely on?
+
+ *(Slightly trick question as we don't really want them to be reliant on libraries. A flag would be raised, for example, if they say they couldn't live without JQuery.)*
+ 
+- [For Full Stack JS role] What kind of optimisations might you want to make for a mobile web app?
+
+ *(Check they consider things such as minification, image optimisation, offline caching, request batching...)*
+ 
+- [For Full Stack JS role] Do you prefer Promises or Callbacks and why?
+
+ *(Check they have a basic understanding of core JavaScript constructs, are up to date enough to know about promises support, and can discuss differences.)*
+ 
+- [For Full Stack JS role] Could you briefly explain prototypal inheritance for me?
+
+ *(Check they understand JavaScript fundamentals and can compare to classical OOP)*
 
 ## Phone Interview 2 
 (~20-30mins)
