@@ -54,15 +54,15 @@ If it helps, it might be useful to use up to 5 from the following questions, to 
 
  *(Slightly trick question as we don't really want them to be reliant on libraries. A flag would be raised, for example, if they say they couldn't live without JQuery.)*
  
-- [For Full Stack JS role] What kind of optimisations might you want to make for a mobile web app?
+- What kind of optimisations might you want to make for a mobile web app?
 
  *(Check they consider things such as minification, image optimisation, offline caching, request batching...)*
  
-- [For Full Stack JS role] Do you prefer Promises or Callbacks and why?
+- Do you prefer Promises or Callbacks and why?
 
  *(Check they have a basic understanding of core JavaScript constructs, are up to date enough to know about promises support, and can discuss differences.)*
  
-- [For Full Stack JS role] Could you briefly explain prototypal inheritance for me?
+- Could you briefly explain prototypal inheritance for me?
 
  *(Check they understand JavaScript fundamentals and can compare to classical OOP)*
 
