@@ -18,6 +18,20 @@ Here is a brief overview of the kind of things we look out for when we review a 
 
 ## Github Code Review 
 
+Must haves:
+- Github (or similar) account with at least a few repositories
+- Decent code style; readable, comments, READMEs etc.
+
+Should haves:
+- Working on their own interesting problems / contributing to open source projects
+- Technology breadth; mix of front-end and back-end code
+
+Nice-to-haves:
+- Polyglot; coding in different languages
+- Any projects that make us go "hey, that's cool!"
+- Worked on popular projects
+
+
 ## Portfolio Review 
 
 
