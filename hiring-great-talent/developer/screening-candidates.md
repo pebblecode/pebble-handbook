@@ -5,20 +5,20 @@ What are the 5(?) traits that we evaluate candidates on?
   - Teamwork
   - Leadership *(? what does this mean?)* <- originally for the LCT role, though this might not be as relevant for the JS developer role unless we are looking for someone senior
   - Functional Competence *(? what does this mean?)* <- Do they have the technical chops to actually hit the road running.
-  - Company fit *( <— need to define this and put it here instead of just saying pebble fit)* <- Their work ethic, are they team players, or lone wolves. Are they from a really corporate back ground and would they fit in with the pebble way of doing things.
+  - Company fit *( <— need to define this and put it here instead of just saying pebble fit)* <- Their work ethic, are they team players, or lone wolves. Are they from a really corporate back ground and would they fit in with the pebble way of doing things. **(What is the pebble way of doing things? We should talk about this and define it. I don't know what it is currently. JL)**
 
-- What are the various interview stages, and what do they entail? *(is this right for us? more? less? different?)*
+- What are the various interview stages, and what do they entail? **(is what's below right for us? It might not be. Let discuss. JL)**
 
 ## CV
 
 ## Github Code Review 
 
 Must haves:
-- Github (or similar) account with at least a few repositories
+- Github (or similar) account with at least a few repositories **(or perhaps, some code, whether it's on GH or not? JL)**
 - Decent code style; readable, comments, READMEs etc.
 
 Should haves:
-- Working on their own interesting problems / contributing to open source projects
+- Working on their own interesting problems / contributing to open source projects **(this has been proven to bias certain demographics, we shouldn't do that. JL)**
 - Demonstration of core skills/competencies we're looking for (i.e. JavaScript, SPAs and Node if for Full Stack JS role)
 - Technology breadth; mix of front-end and back-end code
 
@@ -36,34 +36,29 @@ This is an important step in the process as it can quickly weed out those candid
 
 Tell us about you, your experience, what you’re looking for, why you’re interested in pebble{code}. We’ll tell you about us, what we do, how we do it, what we’re currently working on, our aims & some challenges we’re facing. If both sides are happy with what they hear, we’ll proceed to the next stage.
 
-If it helps, it might be useful to use up to 5 from the following questions, to help us quickly screen candidates:
+If it helps, it might be useful to use up to 5 from the following questions, to help us quickly screen candidates: **Do we want to ask these questions in the first interaction? Feels like somehting that should come later. Thoughts? JL**
 
 * What technologies / frameworks / tools are you hoping to be able to try out soon? 
-
     * *(Let’s us identify if they’re keen to keep learning, plus learn what kind of things they’re interested in.)*
+    **We should first ask...**
+    * Your CV says you used frameworks/library X, how did you find it, what are your thoughts on it? 
 
-* How do you follow the latest tech news? 
-
+* Do you follow any tech blogs or keep an eye on tech news? If so, how? What have you seen recently that you liked/found interesting?
     * *(Looking out for them attending meetups, following good developers on social media, etc.)*
 
-* How would you compare Angular, Backbone and React? 
-
+* How would you compare Angular, Backbone and React? **(<- let candidate lead on what the tech is, and then we ask them about their thoughts. We shouldn't pick for them. JL)**
     * *(Firstly tells us that they know a little bit about these, secondly that they can objectively compare things.)*
 
-* What tools or libraries do you most rely on?
+* What are your current favorite tools/libraries that you're using, and why?
+    * *(Slightly trick question as we don't really want them to be reliant on libraries. A flag would be raised, for example, if they say they couldn't live without JQuery.)* **PS - I don't think we should be asking trick questions. JL**
 
-    * *(Slightly trick question as we don't really want them to be reliant on libraries. A flag would be raised, for example, if they say they couldn't live without JQuery.)*
-
-* What kind of optimisations might you want to make for a mobile web app?
-
+* What kind of practices might you employ if you were making a mobile web app?
     * *(Check they consider things such as minification, image optimisation, offline caching, request batching...)*
 
-* Do you prefer Promises or Callbacks and why?
-
+* What techniques do you use for managing control flow? Do you have any preferences?
     * *(Check they have a basic understanding of core JavaScript constructs, are up to date enough to know about promises support, and can discuss differences.)*
 
-* Could you briefly explain prototypal inheritance for me?
-
+* Could you briefly explain prototypal inheritance for me? **I think questions like this are a bad idea - JL**
     * *(Check they understand JavaScript fundamentals and can compare to classical OOP. Probably one for more junior candidates as more experienced developers might sigh at this age-old question coming up.)*
 
 ## Phone Interview 2 
