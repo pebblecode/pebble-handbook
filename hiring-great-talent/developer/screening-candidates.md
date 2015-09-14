@@ -14,7 +14,7 @@ What are the 5(?) traits that we evaluate candidates on?
 ## Github Code Review 
 
 Must haves:
-- Github (or similar) account with at least a few repositories **(or perhaps, some code, whether it's on GH or not? JL)**
+- Github (or similar) account with at least a few repositories
 - Decent code style; readable, comments, READMEs etc.
 
 Should haves:
@@ -50,7 +50,7 @@ If it helps, it might be useful to use up to 5 from the following questions, to 
     * *(Firstly tells us that they know a little bit about these, secondly that they can objectively compare things.)*
 
 * What are your current favorite tools/libraries that you're using, and why?
-    * *(Slightly trick question as we don't really want them to be reliant on libraries. A flag would be raised, for example, if they say they couldn't live without JQuery.)* **PS - I don't think we should be asking trick questions. JL**
+    * *(Slightly trick question as we don't really want them to be reliant on libraries. A flag would be raised, for example, if they say they couldn't live without JQuery.)*
 
 * What kind of practices might you employ if you were making a mobile web app?
     * *(Check they consider things such as minification, image optimisation, offline caching, request batching...)*
