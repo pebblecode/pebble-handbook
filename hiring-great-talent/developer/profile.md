@@ -1,6 +1,6 @@
 # Candidate Profile
 
-After an inital discussion, we've decided the following traits and characteristics as those that we value the most. What we call, **The pebble way**. That's not to say that we disregard all else, but these are the things we think are most important, and that we will actively be evaluating you on. If someone demonstrates all of these, chances are we would make them an offer. This is a work in progress, and will most likely be subject to change.
+After an inital discussion, we have settled on the following characteristics as the ones that we value the most. This constitutes what we call, **The pebble way**. That is not to say that we disregard all else, but these are the most important to us, and are what we will be evaluating you on. If someone demonstrates all of these, chances are we would make them an offer. This is a work in progress, and will most likely be subject to change.
 
 #### 1. you are an open-minded creative technologist
 
@@ -12,7 +12,7 @@ No one knows everything. All we do is solve the problem in front of us using all
 
 #### 3. you work predominently with, and care the most about, web technologies
 
-Is this a contradiction to 1? Perhaps. Suffice to say that we are not, for example, an iOS dev shop. Currently. For now, the vast majority of the work we do is web based and we use open source technologies to deliver the best possible web experiences for our clients. If you're not a fan of the web, we're probably not the right place for you right now.
+Is this a contradiction to **1**? Perhaps. Suffice to say that we are not, for example, an iOS dev shop. For now, the vast majority of the work we do is web based and we use open source technologies to deliver the best possible web experiences for our clients. If you're not a fan of developing for the web, we're probably not the right place for you at this time.
 
 #### 4. you are an excellent communicator
 
@@ -20,10 +20,10 @@ Software development is as much about people as it is tech. If not more. You are
 
 #### 5. you favour working collaboratively and relish all the challenges that involves
 
-We think the biggest contributor to team happiness is collaboration. We are social animals after all. Mostof the time you'll be working with one or more other people. You care about how the team organises, sharing lessons learned, and each team members happiness. You should be comfortable pair-programming, taking part in retrospectives, and seeking feedback on everything you do. Everything is a continual process, and we all work together on trying to improve it.
+We think the biggest contributor to team happiness is collaboration. We are social animals after all. Most of the time you'll be working with one or more other people. You care about how the team organises, sharing lessons learned, and each team members happiness. You should be comfortable pair-programming, taking part in retrospectives, and seeking feedback on everything you do. Everything is a continual process, and we all work together on trying to improve it.
 
 # Interviewing
 
-The aim of the interview process assess a candidate on these aspects. Different parts of the process will target different traits, enabling us to evaluate the whole set at the end. Details on the process can be found [in the screening document](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/developer/screening-candidates.md).
+The aim of the interview process is to assess a candidate on these aspects. Different parts of the process will target different traits, enabling us to evaluate the whole set at the end. Details on the process can be found [in the screening document](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/developer/screening-candidates.md).
 
 Hopefully this is a useful aid. If anyone has any feedback or questions, feel free to open an issue and start the discussion!
