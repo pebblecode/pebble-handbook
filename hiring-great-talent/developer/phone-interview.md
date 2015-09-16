@@ -15,16 +15,16 @@ The purpose of the interview is to get at whether there are any "must-haves" tha
 General questions will cover 3), and the Deep Dive will cover 6) and 7).
 
 ###Introductory Script
-> Thanks for taking the time to talk to me today. My name is X and I am a designer here at pebble {code}. The way we run this is to take around fifteen to twenty minutes to talk to you about you and what you've been up to recently. We want to know what makes you tick as a designer, and how you've tackled some design challenges in the past. We're also interested in learning about your attitude to design and how you think as a designer. We'll have some time for questions at the end, but is there anything you'd like to know right now about the interview process?
+> Thanks for taking the time to talk to me today. My name is X and I am a developer here at pebble {code}. The way we run this is to take around fifteen to twenty minutes to talk to you about you and what you've been up to recently. We want to know what makes you tick as a developer, and how you've tackled some design challenges in the past. We're also interested in learning about your attitude to design and how you think as a developer. We'll have some time for questions at the end, but is there anything you'd like to know right now about the interview process?
 
 ###General Questions
 
 Some obvious and simple questions should be asked at this stage. If the candidate does not have a clear answer to, for example, why they want to work at pebble {code}, they should not progress to the interview stage.
 
 * What attracts you about working at pebble {code}?
-* How do you make sure you design the right product?
+* How do you make sure you are solving the right problem?
 * What is the project you are most proud of?
-* Can you tell me about a time when you dealt with a difficult client?
+* Can you tell me about a time when you dealt with a difficult client or stakeholder?
 * What is the role of prototyping in software design?
 * What is the role of emotion in design?
 
