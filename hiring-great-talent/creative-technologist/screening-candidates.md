@@ -18,6 +18,20 @@ Here is a brief overview of the kind of things we look out for when we review a 
 
 ## Github Code Review 
 
+Must haves:
+- Github (or similar) account with at least a few repositories
+- Decent code style; readable, comments, READMEs etc.
+
+Should haves:
+- Working on their own interesting problems / contributing to open source projects
+- Technology breadth; mix of front-end and back-end code
+
+Nice-to-haves:
+- Polyglot; coding in different languages
+- Any projects that make us go "hey, that's cool!"
+- Worked on popular projects
+
+
 ## Portfolio Review 
 
 
@@ -58,7 +72,13 @@ Panels will need to be briefed on the candidate specification, process, scoring 
 Each panelist should have an interview pack, complete with CV, other relevant information, scoring sheet and any notes from previous interactions or interviews. 
 
 ### Interview Scoring
-Each panel will have the candidate for just under 1 hour and be assessed, out of 5 (so that it matches the reviewing stars on Recruitee), on: Problem Solving, Leadership, Teamwork, Functional Competence, Company Fit. 
+Each panel will have the candidate for just under 1 hour and be assessed, out of 5 (so that it matches the reviewing stars on Recruitee), on: 
+
+- Problem Solving
+- Leadership
+- Teamwork
+- Functional Competence
+- Company Fit. 
 
 Each member of the panel will be given a scoring sheet and some guidance. As a rule, 4 and above is a hire… below is a no-hire! At the end of the process all scores will be totalled up and an average taken. 
 
