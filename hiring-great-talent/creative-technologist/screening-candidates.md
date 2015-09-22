@@ -31,10 +31,6 @@ Nice-to-haves:
 - Any projects that make us go "hey, that's cool!"
 - Worked on popular projects
 
-
-## Portfolio Review 
-
-
 ## Phone Interview
 The objective of the phone interview is to check that candidates meet all the requirements we are looking for in a Lead Creative Technologist. This means delving deeper into the specifics of the candidates skills and experience discussed in their resume.
 
