@@ -7,7 +7,7 @@ Here is a brief overview of the kind of things we look out for when we review a 
 - **Title**: Titles starting with Lead or Senior are worth further inspection. Director level could be looking for much high salary expectation
 - **Tech**:  C++ and Java is not what we are looking for (People with these skills tend to be more corporate/enterprise background). Look for open source technology like Go lang, Rust, JS, Ruby, PHP, Perl, Obj-C, Python etc… Working with Api’s and, Web performances is a distinct plus.
 - **Companies** - Thomson Reuter for example maybe very traditional and corporate like. Folks from these businesses may not fit in well culturally and may prefer something more rigid.
-- **Industry**: Ad background may bring people from a very salesy back ground and only interested in stuff that is buzz worthy
+- **Industry**: Ad background may bring people from a very salesy background and only interested in stuff that is buzz worthy
 - **Leading Teams**:
   - Working in a cross functional team 
   - Working directly with designers or design teams
