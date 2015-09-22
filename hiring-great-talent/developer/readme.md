@@ -1,4 +1,4 @@
-# Candidate Profile
+# The Developer Role at pebble {code}
 
 After an inital discussion, we have settled on the following characteristics as the ones that we value the most. This constitutes what we call, **The pebble way**. That is not to say that we disregard all else, but these are the most important to us, and are what we will be evaluating you on. If someone demonstrates all of these, chances are we would make them an offer. This is a work in progress, and will most likely be subject to change.
 
