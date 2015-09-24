@@ -19,6 +19,6 @@ Day 1 - here are the things you need to get done:
 
 And finally:
 
-- Familiarise yourself with this wiki - learn a little more [about the company](https://github.com/pebblecode/pebble-handbook/blob/master/company/company.md), the [way we work](https://github.com/pebblecode/pebble-handbook/blob/master/company/way-we-work.md) and the other [relevant and certainly more technical wikis](https://github.com/pebblecode/pebble-handbook/blob/master/tech-wiki/tech-wikis.md)
+- Familiarise yourself with this wiki - learn a little more [about the company](https://github.com/pebblecode/pebble-handbook/blob/master/company/readme.md), the [way we work](https://github.com/pebblecode/pebble-handbook/blob/master/company/way-we-work.md) and the other [relevant and certainly more technical wikis](https://github.com/pebblecode/pebble-handbook/blob/master/tech-wiki/readme.md)
 
 Any further questions, please ask your line manger. 
