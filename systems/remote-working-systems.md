@@ -21,13 +21,11 @@ Navigate to your new vpn in the network connections and click properties on it. 
 
 You should now be able to connect!
 
-If you get a message something like "L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer" then follow the instructions on[ this page](http://www.google.com/url?q=http%3A%2F%2Fsupport.microsoft.com%2Fkb%2F926179&sa=D&sntz=1&usg=AFrqEzfLPE-xhBxkTRgkKWRXBAKg9522ZQ) and be sure to restart your computer.
+If you get a message something like "L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer" then follow the instructions on[ this page](https://support.microsoft.com/en-us/kb/926179) and be sure to restart your computer.
 
-[SonicWall VPN](https://www.google.com/url?q=https%3A%2F%2Fpebbleit.zendesk.com%2Fattachments%2Ftoken%2Fglbglkzvzjkw0n3%2F%3Fname%3D184-001457-00_Rev_A_GVCSetup64.exe&sa=D&sntz=1&usg=AFrqEzf1JdalT5v_1TmEp3YILgqljfv3EQ)
+[SonicWall VPN](https://www.google.com/url?q=https%3A%2F%2Fpebbleit.zendesk.com%2Fattachments%2Ftoken%2Fglbglkzvzjkw0n3%2F%3Fname%3D184-001457-00_Rev_A_GVCSetup64.exe&sa=D&sntz=1&usg=AFrqEzf1JdalT5v_1TmEp3YILgqljfv3EQ) setup
 
- setup
-
-##### []()Install the [SonicWall VPN client](https://www.google.com/url?q=https%3A%2F%2Fpebbleit.zendesk.com%2Fattachments%2Ftoken%2Fglbglkzvzjkw0n3%2F%3Fname%3D184-001457-00_Rev_A_GVCSetup64.exe&sa=D&sntz=1&usg=AFrqEzf1JdalT5v_1TmEp3YILgqljfv3EQ) (link is for 64bit version). Use the VPN secret key (see Mortimer-&gt;pebble{code}, only accessible from pebble network until you have VPN configured!) and your username/password.  To request a VPN login, submit a support request at[http://support.pebbleit.com](http://www.google.com/url?q=http%3A%2F%2Fsupport.pebbleit.com&sa=D&sntz=1&usg=AFrqEzcQpdH7ke7sI6YMdcGzpK-OXH1MuA) using your pebblecode.com google login.
+Install the [SonicWall VPN client](https://www.google.com/url?q=https%3A%2F%2Fpebbleit.zendesk.com%2Fattachments%2Ftoken%2Fglbglkzvzjkw0n3%2F%3Fname%3D184-001457-00_Rev_A_GVCSetup64.exe&sa=D&sntz=1&usg=AFrqEzf1JdalT5v_1TmEp3YILgqljfv3EQ) (link is for 64bit version). Use the VPN secret key (see Mortimer-&gt;pebble{code}, only accessible from pebble network until you have VPN configured!) and your username/password.  To request a VPN login, submit a support request at[http://support.pebbleit.com](http://www.google.com/url?q=http%3A%2F%2Fsupport.pebbleit.com&sa=D&sntz=1&usg=AFrqEzcQpdH7ke7sI6YMdcGzpK-OXH1MuA) using your pebblecode.com google login.
 
 ### Campfire
 
