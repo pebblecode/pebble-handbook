@@ -1,3 +1,5 @@
+# Absence reporting and sick pay policy
+
 We are sympathetic to genuine cases of illness or other problems which might make absence unavoidable. However, excessive or unauthorised absence causes disruption to the business, lowers the morale of other staff and makes us less able to accommodate genuine cases of long-term illness. Therefore, all absences are taken seriously and unnecessary absence is likely to lead to disciplinary action.
 
 This policy aims to minimise the disruption caused by employee absence by setting clear guidelines on absence notification, by encouraging regular communication to assist employees to return to work as soon and as safely as possible, and by assisting managers to handle absences due to illness or injury in a fair, consistent and effective way.

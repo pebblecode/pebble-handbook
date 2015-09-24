@@ -1,4 +1,4 @@
-# Accessibility
+# Accessibility and Disability Policy
 
 ## Our Commitment to Disabled People
 
