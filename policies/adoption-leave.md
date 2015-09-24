@@ -1,6 +1,6 @@
 # Adoption leave policy
 
-*Adoption leave*
+**Adoption leave**
 
 Employees with 26 weeks' continuous employment ending with the week in which they are notified of being matched with a child are entitled to a statutory period of adoption leave and statutory adoption pay.
 
@@ -14,7 +14,7 @@ Adoption leave is not available where the child is already known to the adopters
 - During the adoption leave period, the employee will not be entitled to his or her normal wages or salary, but may be entitled to Statutory Adoption Pay. With the exception of payment of wages and salary, the employee will continue to receive all of his or her contractual benefits during both the ordinary and additional adoption leave periods. During the adoption leave period, the employee shall remain subject to all the express and implied terms and conditions of employment, including notice of termination, confidentiality, good faith and exclusive service.
 - An employee returning to work at the end of the ordinary adoption leave period has a right to return to the job in which he or she was employed prior to taking adoption leave. An employee returning to work at the end of the additional adoption leave period has a right to return to the job in which he or she was employed prior to taking adoption leave or, if it is not reasonably practicable for pebble to permit return to that job, another job which is both suitable and appropriate in the circumstances. In the event of the employee returning to another job, the terms relating to remuneration will be not less favourable than if the employee had not been absent on adoption leave and other terms and conditions will not be substantially less favourable than the terms, which applied prior to adoption leave.
 
-*Transfer of adoption leave*
+**Transfer of adoption leave**
 
 If the employee proposes to return to work early without using his or her full 52 week entitlement to adoption leave and gives proper notice of this, he or she may be eligible to transfer up to 26 weeks of his or her outstanding adoption leave (and outstanding SAP) to his or her spouse, civil partner or partner, to be taken as additional paternity leave (and additional statutory paternity pay) on his or her return to work.
 
