@@ -67,24 +67,6 @@
 
 **Probationary employees**
 
-Employees who are still within their probationary period are not covered by this procedure. If a
-
-probationary employee is not performing satisfactorily or there are incidences of misconduct, he or
-
-she will normally be seen by his or her manager, informed of any shortcomings in performance or
-
-conduct, offered training and support (where appropriate) and warned that failure to improve will
-
-result in dismissal. If there is doubt about the employee's ability to reach a satisfactory standard, the
-
-probationary period may be extended, in which case the employee will be told of this and a new date
-
-set for the expiry of the probationary period. If the employee is unable to reach a satisfactory
-
-standard of performance or conduct, he or she will normally be invited to a formal meeting (with the
-
-right to be accompanied) prior to a decision being taken concerning his or her continued
-
-employment. 
+Employees who are still within their probationary period are not covered by this procedure. If a probationary employee is not performing satisfactorily or there are incidences of misconduct, he or she will normally be seen by his or her manager, informed of any shortcomings in performance or conduct, offered training and support (where appropriate) and warned that failure to improve will result in dismissal. If there is doubt about the employee's ability to reach a satisfactory standard, the probationary period may be extended, in which case the employee will be told of this and a new date set for the expiry of the probationary period. If the employee is unable to reach a satisfactory standard of performance or conduct, he or she will normally be invited to a formal meeting (with the right to be accompanied) prior to a decision being taken concerning his or her continued employment. 
 
 A probationary employee who commits an act of gross misconduct will be summarily dismissed.
