@@ -13,12 +13,12 @@ Day 1 - here are the things you need to get done:
 - Set up your LastPass account for managing all company passwords and install the browser extension. 
 - Need to configure a desk phone? Talk to your manager about [submitting a ticket](mailto:support@pebbleit.com)
 - Complete any necessary assessment forms - ask office management
-- Add an email signature - see the [email page](https://sites.google.com/a/pebblecode.com/wiki/systems/email) for formatting tips
-- Set up a VPN connection (send an email to help@pebbleit.com to request access - see also [Remote Working](https://sites.google.com/a/pebblecode.com/wiki/systems/remote-working) page)
-- (Less important now in the days of the Cloud, but you may also want to) ensure an appropriate [backup](https://sites.google.com/a/pebblecode.com/wiki/tech-wikis/backups) solution is in place for your laptop - install backup software and clone laptop disk
+- Add an email signature - see the [email page](https://github.com/pebblecode/pebble-handbook/blob/master/systems/email.md) for formatting tips
+- Set up a VPN connection (send an email to help@pebbleit.com to request access - see also [Remote Working](https://github.com/pebblecode/pebble-handbook/blob/master/systems/remote-working-systems.md) page)
+- (Less important now in the days of the Cloud, but you may also want to) ensure an appropriate [backup](https://github.com/pebblecode/pebble-handbook/blob/master/tech-wiki/backups.md) solution is in place for your laptop - install backup software and clone laptop disk
 
 And finally:
 
-- Familiarise yourself with this wiki - learn a little more [about the company](https://sites.google.com/a/pebblecode.com/wiki/company), the [way we work](https://sites.google.com/a/pebblecode.com/wiki/company/way-we-work) and the other [relevant and certainly more technical wikis](https://sites.google.com/a/pebblecode.com/wiki/tech-wikis)
+- Familiarise yourself with this wiki - learn a little more [about the company](https://github.com/pebblecode/pebble-handbook/blob/master/company/company.md), the [way we work](https://github.com/pebblecode/pebble-handbook/blob/master/company/way-we-work.md) and the other [relevant and certainly more technical wikis](https://github.com/pebblecode/pebble-handbook/blob/master/tech-wiki/tech-wikis.md)
 
 Any further questions, please ask your line manger. 
