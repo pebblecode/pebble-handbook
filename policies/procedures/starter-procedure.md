@@ -50,26 +50,26 @@ After successful probation review:
 When preparing for a new starter, ensure the following accounts/information are made available:
 
 - Google Apps account
--- Account name pattern is firstname.surname@pebblecode.com
--- May need to request an increase in the google apps user limit - do this by submitting a ticket at support.pebbleit.com.
--- Be sure pebble.it add the new account to all relevant mail lists such as office@pebbleit.com mailing list.
--- For Bede - email Andy - set up email, check with Manager which groups to be added to.
+  - Account name pattern is firstname.surname@pebblecode.com
+  - May need to request an increase in the google apps user limit - do this by submitting a ticket at support.pebbleit.com.
+  - Be sure pebble.it add the new account to all relevant mail lists such as office@pebbleit.com mailing list.
+  - For Bede - email Andy - set up email, check with Manager which groups to be added to.
 - Request VPN access (support.pebbleit.com).  
 - Systems:
--- TribeHR
--- Xero
--- Slack
--- Trello (if required)
+  - TribeHR
+  - Xero
+  - Slack
+  - Trello (if required)
 - Developer Systems:
--- Pivotal Tracker
--- Mortimer
--- Github (developers should create a github account and notify Alex/George to be added to the pebblecode organization)
+  - Pivotal Tracker
+  - Mortimer
+  - Github (developers should create a github account and notify Alex/George to be added to the pebblecode organization)
 - .Net Developers:
--- pebblecode.net domain account.  Need membership of the following for RDP:
---- Administrators
---- Enterprise Admins
---- Domain Admins
--- Assemble software licenses
---- Visual Studio
---- Office (for financial services)
---- Resharper? (ask first)
+  - pebblecode.net domain account.  Need membership of the following for RDP:
+    - Administrators
+    - Enterprise Admins
+    - Domain Admins
+  - Assemble software licenses
+    - Visual Studio
+    - Office (for financial services)
+    - Resharper? (ask first)
