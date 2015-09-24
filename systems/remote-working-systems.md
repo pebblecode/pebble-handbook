@@ -27,16 +27,16 @@ If you get a message something like "L2TP connection attempt failed because the 
 
 Install the [SonicWall VPN client](https://www.google.com/url?q=https%3A%2F%2Fpebbleit.zendesk.com%2Fattachments%2Ftoken%2Fglbglkzvzjkw0n3%2F%3Fname%3D184-001457-00_Rev_A_GVCSetup64.exe&sa=D&sntz=1&usg=AFrqEzf1JdalT5v_1TmEp3YILgqljfv3EQ) (link is for 64bit version). Use the VPN secret key (see Mortimer-&gt;pebble{code}, only accessible from pebble network until you have VPN configured!) and your username/password.  To request a VPN login, submit a support request at[http://support.pebbleit.com](http://www.google.com/url?q=http%3A%2F%2Fsupport.pebbleit.com&sa=D&sntz=1&usg=AFrqEzcQpdH7ke7sI6YMdcGzpK-OXH1MuA) using your pebblecode.com google login.
 
-### Campfire
+## Campfire
 
 Try not to have conversations via chat if they may be useful for the entire team. Start them on Slack, and move to a hangout if appropriate.
 
 The Flare desktop client is very flaky - notifications stop working at random times. I've had much more success with the web client + [kindling](https://chrome.google.com/webstore/detail/abnakpmgckdkcpgbcejajjbllagggcif) for notifications.
 
-### Hangouts
+## Hangouts
 
 Far more productive than typing extended conversations. Summarise on Slack if the whole team would benefit.
 
-### Shared Calendar
+## Shared Calendar
 
 Share your gmail calendar. This will inform other team members when there are some official holidays and annual leave.
