@@ -1,6 +1,6 @@
 # Starter procedures
 
-## New starter? View your starter checklist [here](). 
+## New starter? View your starter checklist [here](https://github.com/pebblecode/pebble-handbook/blob/master/policies/procedures/new-starters-checklist.md). 
 
 For management, administration and line manager, keep reading:
 
