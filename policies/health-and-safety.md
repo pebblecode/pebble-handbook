@@ -31,6 +31,6 @@ Subject to review, monitoring and revision every 12 months, or sooner if work ac
 
 For futher documentation please see pages below:
 
-- [Workstation Guideline](https://sites.google.com/a/pebblecode.com/wiki/people/policies/health-safety/workstation-guidelines)
+- [Workstation Guideline](https://github.com/pebblecode/pebble-handbook/blob/master/policies/workstation-guideline.md)
 - Risk and Fire Assessment
-- [Eye Test Policy](https://sites.google.com/a/pebblecode.com/wiki/people/policies/health-safety/eye-test-policy)
+- [Eye Test Policy](https://github.com/pebblecode/pebble-handbook/blob/master/policies/eye-test.md)
