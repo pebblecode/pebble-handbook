@@ -8,4 +8,4 @@ If it is technical information that you are after, please see below: 
 
 Client project wikis: 
 
-- [Bede Gaming](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fa%2Fbedegaming.com%2Fwiki%2Fhome&sa=D&sntz=1&usg=AFrqEzeg3NlyHju0jPD3rWy5hl4a3q6BzQ) (new starters begin [here](https://sites.google.com/a/bedegaming.com/wiki/home) (NB. a @bedegaming.com login is required)
+- [Bede Gaming](https://sites.google.com/a/bedegaming.com/wiki/home) (new starters begin [here](https://sites.google.com/a/bedegaming.com/wiki/developer-info/new-net-developer) (NB. a @bedegaming.com login is required)
