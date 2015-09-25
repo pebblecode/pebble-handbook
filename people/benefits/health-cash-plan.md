@@ -17,7 +17,6 @@ For those of you who already have their Preferential Private Health Cover set up
 As a guideline, here are the essential figures for a Basic Cash Back Plan.  The payback level for all benefits is 100% each year. 
 
 | Weekly payment level (company funded rate) 10 employees or more              | £1.00   | £2.10   | £3.50   |
-|------------------------------------------------------------------------------|---------|---------|---------|
 | Weekly payment level (company funded rate)3-9 employees                      | £1.25   | £2.50   | £3.75   |
 |                                                                              | Level 1 | Level 2 | Level 3 |
 | Dental                                                                       | £60     | £120    | £180    |
