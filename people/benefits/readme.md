@@ -7,7 +7,6 @@ As of 1st November, pebble will contribute 3% of your gross monthly salary per m
 The benefits currently available  as part of the scheme are:-
 
 - [Pension Plan](https://sites.google.com/a/pebblecode.com/wiki/people/benefits/pension-plan)  
-
 - [Medical Cover](https://sites.google.com/a/pebblecode.com/wiki/people/benefits/medical-cover)
 - [Health Cash Plan](https://sites.google.com/a/pebblecode.com/wiki/people/benefits/health-cash-plan-2)
 - [Dental Plan](https://sites.google.com/a/pebblecode.com/wiki/people/benefits/dental-plan)
