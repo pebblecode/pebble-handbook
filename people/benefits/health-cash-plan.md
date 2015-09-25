@@ -12,13 +12,12 @@ You can also upgrade to Family cover that will include yourself, your partner an
 
 For those of you who already have their Preferential Private Health Cover set up with Simplyhealth this Cash Plan simply runs alongside it giving you peace of mind that even more costs are covered and not only when you are in ill health.
 
- 
-
 As a guideline, here are the essential figures for a Basic Cash Back Plan.  The payback level for all benefits is 100% each year. 
 
-| Weekly payment level (company funded rate) 10 employees or more              | £1.00   | £2.10   | £3.50   |
-| Weekly payment level (company funded rate)3-9 employees                      | £1.25   | £2.50   | £3.75   |
 |                                                                              | Level 1 | Level 2 | Level 3 |
+|------------------------------------------------------------------------------|---------|---------|---------|
+| Weekly payment level (company funded rate)3-9 employees                      | £1.25   | £2.50   | £3.75   |
+| Weekly payment level (company funded rate) 10 employees or more              | £1.00   | £2.10   | £3.50   |
 | Dental                                                                       | £60     | £120    | £180    |
 | Optical                                                                      | £60     | £120    | £180    |
 | Health Screening                                                             | £100    | £200    | £300    |
