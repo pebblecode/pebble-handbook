@@ -10,7 +10,7 @@ Full details of your policy and how to claim will be provided to you upon enrol
 | Premium per month (two adults)             | £14.80  | £22.30  | £32.90  |
 | Extra premium to cover up to four children | £1.05   | £3.15   | £6.35   |
 
-| Cover with immediate Benefit                                                                                                    | Annual Limit per person up to                                                                                                  |
+| Cover with immediate Benefit                                          |                                                         | Lv. 1 Annual Limit per person up to      | Lv. 2 Annual Limit per person up to      | Lv. 3 Annual Limit per person up to      |
 |-----------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 | Maintenance                                                           | check-ups, investigations, xrays, scaling and polishing | £40                                      | £110                                     | £260                                     |
 | Treatment - includes crowns, bridges, fillings, dentures and tab fees | - Maximum for crowns, bridges, onlays and inlays        | £200                                     | £500                                     | £2000*                                   |
@@ -19,6 +19,8 @@ Full details of your policy and how to claim will be provided to you upon enrol
 |                                                                       | - Call out Fee                                          | £150                                     | £200                                     | £250                                     |
 | Dental Accident cover                                                 | -Emergency treatment                                    | £10,000 of which £5,000 is max can claim | £10,000 of which £5,000 is max can claim | £10,000 of which £5,000 is max can claim |
 | Mouth Cancer cover                                                    | -One off single payment when diagnosed                  | £4000                                    | £8000                                    | £12,000                                  |
+
+Worldwide cover: Dental accident cover and dental emergency visit apply anywhere in the world for any trip with a duration of up to and including 28 days. 
 
 ALL PREMIUMS INCLUDE INSURANCE PREMIUM TAX
 
