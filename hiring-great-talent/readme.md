@@ -101,7 +101,7 @@ Essentially what we are looking to understand from the candidates are the follow
 
 The exact we we approach this will be different depending on the role we are looking to recruit:
 
-- [Screening Developer Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/developer/screening-candidates.md)
+- [Screening Developer Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/developer/process/01-screening-candidates.md)
 - [Screening Designer Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/designer/screening-candidates.md)
 - [Screening Creative Technologist Candidates](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/creative-technologist/screening-candidates.md)
 
