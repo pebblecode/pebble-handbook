@@ -6,7 +6,7 @@ There will be times when a sales forecast doesn't look attainable. Fear not! The
 
 First focus on what you've already got in the forecast. It is in there for a reason so unless things have changed you should be able to close it. Getting these sales in should be the lowest effort and the easiest way to bring the numbers up.
 
-## Work your base clients
+## Work your client base
 
 Ring round your client base and let them know that you have some spare cycles and could they use them on any of their projects? Start with current projects and then fan out to recent projects. Use price flexibility in relation to the urgency of hitting a target. 
 
