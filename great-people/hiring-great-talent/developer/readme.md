@@ -10,7 +10,7 @@ You are not wedded to a particular programming language, or environment, or tool
 
 No one knows everything. All we do is solve the problem in front of us using all of the information that we have available to us at that time. Therefore, you should be able to demonstrate critical thinking, ask inquisitive questions, and have a bias towards to action.
 
-#### 3. you work predominently with, and care the most about, web technologies
+#### 3. you work predominantly with, and care the most about, web technologies
 
 Is this a contradiction to **1**? Perhaps. Suffice to say that we are not, for example, an iOS dev shop. For now, the vast majority of the work we do is web based and we use open source technologies to deliver the best possible web experiences for our clients. If you're not a fan of developing for the web, we're probably not the right place for you at this time.
 
