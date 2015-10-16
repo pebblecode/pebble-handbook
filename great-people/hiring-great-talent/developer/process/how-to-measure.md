@@ -134,6 +134,7 @@ _We should probably have more here as this is what you spend your time doing_
 ### Interview questions/exercises:
 * Describe a time when you've had to work with a difficult person/client?
 * Tell me about a time when you've had to work with another team?
+* What would you improve about the way your current team works? Why hasnt this happened?
 
 ### Things to watch out for:
 * People who prefer silos.
