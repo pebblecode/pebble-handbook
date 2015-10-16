@@ -115,7 +115,6 @@ _We should probably have more here as this is what you spend your time doing_
 
 ### Things to watch out for:
 * Try to be collaborative, but avoid giving the answers away
-* Collaborative questions can be tricky - dont just tell the candidate the answers
 * Candidates transitioning into the web. Often these candidates are great but have a low understanding of the web as an application platform. 
 * Dogmatic candidates who hate Microsoft because of IE. We've moved on and Mobile Safari is now the elephant in the room.
 
