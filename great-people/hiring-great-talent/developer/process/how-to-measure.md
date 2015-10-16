@@ -90,7 +90,7 @@ _These might sound a bit lame, but they do work_
 ### Things to watch out for:
 * Not considering what problems that might create for others.
 * Perfectionists; perfection is the enemy of getting things done.
-* [Yak shaving](sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html)
+* [Yak shaving](http://sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html)
 
 ## 3. you work predominantly with, and care the most about, web technologies
 
