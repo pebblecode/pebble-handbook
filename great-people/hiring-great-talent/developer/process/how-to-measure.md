@@ -98,24 +98,35 @@ _These might sound a bit lame, but they do work_
 * Have extensive experience developing web with technologies on their CV.
 * Some web-related personal projects.
   - _are we going to have the discpline to look at their code properly? how do we evaulate a personal project?_ 
+* Demonstrate more than a passing understanding of browser APIs.
 
 ### Interview questions/exercises:
 * Battleships
   - _I think this is reasonable question, but could be improved._
     - _Is command line good? Should we be more prescriptive about what we expect
     from a good answer_
-* _Any Specific technical questions?_
+* What's your opinion of the current browser landscape? 
+* Web or Native?
+* Have you worked with any of the newer browser APIs?
+* Can you talk about any good or bad experiences of working with back-end APIs?
+* What do you see the future for browsers is?
 
 _We should probably have more here as this is what you spend your time doing_
 
 ### Things to watch out for:
 * Try to be collaborative, but avoid giving the answers away
+* Collaborative questions can be tricky - dont just tell the candidate the answers
+* Candidates transitioning into the web. Often these candidates are great but have a low understanding of the web as an application platform. 
+* Dogmatic candidates who hate Microsoft because of IE. We've moved on and Mobile Safari is now the elephant in the room.
 
 ## 4. you are an excellent communicator
 
 ### A good candidate would:
 * clearly explain their ideas
 * Able to describe the software architecture of the things they work on.
+* have a good command of English if it is a second language
+* hold an opinion but not be a maniac
+* challenge incorrect assumptions and be open to debate
 
 ### Interview questions/exercises:
 * A collaborate exercise can work well. Something framed like pair-programming.
@@ -124,6 +135,11 @@ _We should probably have more here as this is what you spend your time doing_
 
 ### Things to watch out for:
 * Jargon
+* Poor levels of English
+* Frequently interupting
+* Shouting
+* Very quiet
+* Not offering an opinion
 
 ## 5. you favour working collaboratively and relish all the challenges that involves
 
@@ -138,4 +154,14 @@ _We should probably have more here as this is what you spend your time doing_
 
 ### Things to watch out for:
 * People who prefer silos.
+* Be open to a non-heirachical environment
 
+### Interview questions/exercises:
+* What is your experience of working in Agile teams
+* Describe a project where you've seen Agile working well
+* Describe a project where you've seen Agile working badly
+* How to handle disagreement in teams?
+
+### Things to watch out for:
+* Lone wolf developers who only work on their own
+* Developers that don't have opinions on Agile. (Any opinion is valid).
