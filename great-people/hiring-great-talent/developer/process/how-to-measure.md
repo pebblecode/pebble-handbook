@@ -97,6 +97,7 @@ _These might sound a bit lame, but they do work_
 ### A good candidate would:
 * Have extensive experience developing web with technologies on their CV.
 * Some web-related personal projects.
+  - _are we going to have the discpline to look at their code properly? how do we evaulate a personal project?_ 
 
 ### Interview questions/exercises:
 * Battleships
@@ -117,6 +118,8 @@ _We should probably have more here_
 
 ### Interview questions/exercises:
 * A collaborate exercise can work well. Something framed like pair-programming.
+* Tell me about a time when you've had to work with someone non-technical to deliver a project?
+* 
 
 ### Things to watch out for:
 *
