@@ -123,7 +123,7 @@ _We should probably have more here as this is what you spend your time doing_
 * Ask them to explain the architecture of a current or recent project? Offer the whiteboard.
 
 ### Things to watch out for:
-* 
+* Jargon
 
 ## 5. you favour working collaboratively and relish all the challenges that involves
 
