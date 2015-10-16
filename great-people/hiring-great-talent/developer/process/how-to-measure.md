@@ -106,10 +106,10 @@ _These might sound a bit lame, but they do work_
     from a good answer_
 * _Any Specific technical questions?_
 
-_We should probably have more here_
+_We should probably have more here as this is what you spend your time doing_
 
 ### Things to watch out for:
-* Collaborative questions can be tricky - dont just tell the candidate the answers
+* Try to be collaborative, but avoid giving the answers away
 
 ## 4. you are an excellent communicator
 
@@ -122,7 +122,7 @@ _We should probably have more here_
 * 
 
 ### Things to watch out for:
-*
+* 
 
 ## 5. you favour working collaboratively and relish all the challenges that involves
 
@@ -130,7 +130,9 @@ _We should probably have more here_
 * Have experience/exposure to with Agile methods
 
 ### Interview questions/exercises:
-*
+* Describe a time when you've had to work with a difficult person/client?
+* Tell me about a time when you've had to work with another team?
 
 ### Things to watch out for:
-* 
+* People who prefer silos.
+
