@@ -150,17 +150,12 @@ _We should probably have more here as this is what you spend your time doing_
 * Describe a time when you've had to work with a difficult person/client?
 * Tell me about a time when you've had to work with another team?
 * What would you improve about the way your current team works? Why hasnt this happened?
-
-### Things to watch out for:
-* People who prefer silos.
-* Be open to a non-heirachical environment
-
-### Interview questions/exercises:
 * What is your experience of working in Agile teams
 * Describe a project where you've seen Agile working well
 * Describe a project where you've seen Agile working badly
 * How to handle disagreement in teams?
 
 ### Things to watch out for:
+* Be open to a non-heirachical environment
 * Lone wolf developers who only work on their own
 * Developers that don't have opinions on Agile. (Any opinion is valid).
