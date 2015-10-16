@@ -13,13 +13,13 @@ Currently, our screening process is comprised of the following. Details on each 
 
 Based on CV and cover email, and any code samples that are public or provided by the candidate.
 
-#### 2. Coding Exercise
+#### 2. [Coding Exercise](https://github.com/pebblecode/pebble-handbook/blob/master/great-people/hiring-great-talent/developer/process/02-code-test.md)
 
 We like to evaluate candidates using real-life examples of code that they’ve worked on. Ideally this would be from a professional context, but that this isn’t always possible. In the absence of that, we’ll ask that you complete a mini-coding exercise for us, and we’ll use that to talk through, and pair on, when you come in. (Details of exact nature of exercise to be confirmed).
 
 If you do wish to send us a previous project, feel free to do so. Please note however, we’re looking for examples where you’ve had to solve a real-world problem, so a first-time tinker trying to learn a technology you’ve never used before may not be the best option. We’ll be expecting you to show us the code, talk us through it, explain the initial problem, how you decided what to build, your choice of technology, things you did, things you didn’t do, why etc etc.
 
-#### 3. Phone Interview (~15-20mins)
+#### 3. [Phone Interview](https://github.com/pebblecode/pebble-handbook/blob/master/great-people/hiring-great-talent/developer/process/03-phone-interview.md) (~15-20mins)
 
 This is an important step in the process as it can quickly weed out those candidates that just have a good CV or social presence. We want to spend the first 5-10mins building rapport, so just ask them about themselves to begin with. This should lead into a broader conversation about technology, their experience and opinions. Finally, we can talk about pebble, and do describe what we do and how we do it etc. Below are some examples of what we might ask a candidate about.
 
@@ -28,7 +28,7 @@ This is an important step in the process as it can quickly weed out those candid
 * What do you want to learn next?
 * Tell us about a project you've worked on that you particularly enjoyed. What did you enjoy? Why?
 
-#### 4. Office Interview (~90mins)
+#### 4. [Office Interview](https://github.com/pebblecode/pebble-handbook/blob/master/great-people/hiring-great-talent/developer/process/how-to-measure.md) (~90mins)
 
 You’ll meet various members of the company, and be interviewed by at least one of the dev team, and someone from senior management team (SMT). The dev team interview will focus further on your functional competencies, including the code example mentioned above. You will also do some pairing during this session, either on the code exercise we set you, or on something that we’re working on atm. This bit isn’t aimed at evaluating your coding ability, as we’ll already have a view on that, more how you work in collaboration with others and on your approach to problem-solving.
 
