@@ -103,16 +103,17 @@ _These might sound a bit lame, but they do work_
   - _I think this is reasonable question, but could be improved._
     - _Is command line good? Should we be more prescriptive about what we expect
     from a good answer_
+* _Any Specific technical questions?_
 
 _We should probably have more here_
 
 ### Things to watch out for:
-* 
+* Collaborative questions can be tricky - dont just tell the candidate the answers
 
 ## 4. you are an excellent communicator
 
 ### A good candidate would:
-*
+* clearly explain their ideas
 
 ### Interview questions/exercises:
 * A collaborate exercise can work well. Something framed like pair-programming.
