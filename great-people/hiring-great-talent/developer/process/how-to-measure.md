@@ -115,11 +115,12 @@ _We should probably have more here as this is what you spend your time doing_
 
 ### A good candidate would:
 * clearly explain their ideas
+* Able to describe the software architecture of the things they work on.
 
 ### Interview questions/exercises:
 * A collaborate exercise can work well. Something framed like pair-programming.
 * Tell me about a time when you've had to work with someone non-technical to deliver a project?
-* 
+* Ask them to explain the architecture of a current or recent project? Offer the whiteboard.
 
 ### Things to watch out for:
 * 
@@ -128,6 +129,7 @@ _We should probably have more here as this is what you spend your time doing_
 
 ### A good candidate would:
 * Have experience/exposure to with Agile methods
+  - For example, be familiar with retrospectives, planning and sprint reviews
 
 ### Interview questions/exercises:
 * Describe a time when you've had to work with a difficult person/client?
