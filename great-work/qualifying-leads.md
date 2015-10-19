@@ -6,7 +6,7 @@ We are developing a technique for making these meetings as useful as possible bo
 
 ## Scenario
 
-We have a meeting scheduled with Arthur Dent, Senior Manager: Digital Innovation of Dent Co on 26th October. We know he is interested in creating more digital product within Dent Co but beyond that nothing.
+We have a meeting scheduled with Arthur Dent, Senior Manager: Digital Innovation of Dent Co on 26th October. We know he is interested in creating more digital products within Dent Co but beyond that nothing.
 
 ## Qualifying the opportunity
 
