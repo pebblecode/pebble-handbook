@@ -28,15 +28,15 @@ This is the highest return means of discovery and this should be prioritised. Fo
 
 ### Find out who the contact is
 
-Understanding who the contact is and where they sit in the company can help in framing a discussion. Normally we can discover via LinkedIn which team they are in. This can lead to an understand of collegues and the things they are interested in. Normally we can then source social media profiles to see the types of things they are interested in. If we can understand that all the contact has been talking about for the last two months is digital transformation then this can help us prepare for the meeting.
+Understanding who the contact is and where they sit in the company can help in framing a discussion. Normally we can discover via LinkedIn which team they are in. This can lead to an understanding of their collegues and the things they are interested in. Normally we can then source social media profiles to see the types of things they are interested in. If we can understand that all the contact has been talking about for the last two months is digital transformation then this can help us prepare for the meeting.
 
 ### Discover what the technology landscape is in the industry
 
-Going into the meeting with an understanding of the general technology landscape of an industry will lead to a better meeting. Let's suppose that Dent Co is a telecommunications company. We should be able to understand what's happening in the industry through press, analyst reports and potentially through people in the office. o
+Going into the meeting with an understanding of the general technology landscape of an industry will lead to a better meeting. Let's suppose that Dent Co is a telecommunications company. We should be able to understand what's happening in the industry through press, analyst reports and potentially through people in the office. The output of this analysis should be a short summary of what's driving and affecting the industry so other members of the team can quickly understand it. 
 
 ### Look at who the company is hiring
 
-A great indicator of company strategy is the people they are looking to hire right now. By looking at their careers site and assessing who they are hiring in technology space we can potentially undestand the direction they are heading in. For example if a company is hiring lots of Data Analytics Professionals there is a good chance they are looking at Business Intelligence. Often the job adverts will give away snippets of strategy too.
+A great indicator of company strategy is the people they are looking to hire right now. By looking at their careers site and assessing who they are hiring in technology  we can potentially undestand the direction they are heading in. For example if a company is hiring lots of Data Analytics Professionals there is a good chance they are looking at Business Intelligence. Often the job adverts will give away snippets of strategy too.
 
 ### Research the company
 
@@ -44,7 +44,7 @@ There is a wealth of information around publically traded companies. Looks at an
 
 * Has the share price gone up or down? Why?
 * Have they had any major changes in leadership? Why?
-* What is there stated strategy?
+* What is their stated strategy?
 
 ## Divide and conquer
 
