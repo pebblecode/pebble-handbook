@@ -61,7 +61,7 @@ Values
   main language. Preferably one that we use.
 * Technology magpie: always picks the latest framework/language with no focus on
   delivery.
-* Self-describing back-end or front-end coders, we want full-stack.  
+* Self-describing back-end or front-end coders, we want strong full-stack skills.  
 
 ## 2. you are an adept and relentless problem-solver
 
