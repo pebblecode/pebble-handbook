@@ -24,6 +24,6 @@ We think the biggest contributor to team happiness is collaboration. We are soci
 
 # Interviewing
 
-The aim of the interview process is to assess a candidate on these aspects. Different parts of the process will target different traits, enabling us to evaluate the whole set at the end. Details on the process can be found [in the screening document](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/developer/screening-candidates.md).
+The aim of the interview process is to assess a candidate on these aspects. Different parts of the process will target different traits, enabling us to evaluate the whole set at the end. Details on the process can be found [in the screening document](https://github.com/pebblecode/pebble-handbook/blob/master/great-people/hiring-great-talent/developer/process/01-screening-candidates.md).
 
 Hopefully this is a useful aid. If anyone has any feedback or questions, feel free to open an issue and start the discussion!
