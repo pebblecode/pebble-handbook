@@ -11,7 +11,7 @@ The design team at pebble {code} is responsible for:
 * Creating architectural depictions of the software from a users perspective, such as product maps.
 * Drawing low-fidelity prototypes such as wireframes.
 * Creating interactive prototypes.
-(./ux-research/user-testing.md "* Testing designs with users where possible.")
+* [Testing designs with users where possible.](./ux-research/user-testing.md)
 * Creating aesthetic designs.
 * Front end development, including HTML, CSS, SASS and some JS.  
 * Motion graphics production
