@@ -4,7 +4,7 @@ Great software is not only well engineered, it is formed so it meets the needs o
 
 The design team at pebble {code} is responsible for:
 
-* Conducting exciting, insightful and productive workshops with clients to establish requirements.
+* [Conducting exciting, insightful and productive workshops with clients to establish requirements.](./workshops/workshops.md)
 * Conducting appropriate research into the subject area.
 * Understanding the current state of workflow of the people for whom we are designing.
 * Creating new workflows that relate to feasible real-world technological possibilities.
