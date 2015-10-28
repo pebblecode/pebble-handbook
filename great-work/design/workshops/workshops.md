@@ -64,3 +64,9 @@ A really successful workshop will have a considerable component of ideation. We 
 
 We have plenty of examples of techniques that are good for ideation. One in particular is iterative drawing. Participants are asked to repeatedly draw the idea, focusing in turn on one aspect or another. This is useful in helping participants to consider ideas from different perspectives. 
 
+##8. Get People Excited
+A really successful software project needs to inspire people. The workshop can play the role of providing this excitement. We should always be considering ways to improve this experience and increase levels of excitement. 
+
+##9. Envy
+Our ultimate aspiration for pebble {code} workshops is to make people really want to attend. We should be known for excellent workshops, and should promote this. 
+
