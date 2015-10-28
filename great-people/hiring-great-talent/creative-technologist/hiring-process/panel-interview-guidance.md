@@ -6,7 +6,7 @@ The role of the Lead Creative Technologist is both client facing, and design & d
 #### Development background
 Whether they have a solid development background - i.e. they’ve actually been a developer, or done significant amounts of development, in roles before (could be earlier in their career)
 
-#### Understanding what makes good code 
+#### Understanding what makes good code
 Preferably some code online e.g. on Github, so we can check that they can actually code well if they need to (They wouldn’t be coding much in reality, but it’d make us all feel safer about bringing them on if they could).
 
 #### Web development
@@ -36,4 +36,4 @@ Successful problem solving requires finding the right solutions to the right pro
 Are they an excellent communicator, able to explain, persuade and justify decisions to strong technical teams and non technical clients alike, able to see the wood for the trees and not afraid to point out difficult truths. We are looking for someone that has the confidence to say no rather than nod along to requirements.
 
 **Related Links**
-[Panel Interviews Guidance](https://github.com/pebblecode/pebble-handbook/blob/master/hiring-great-talent/creative-technologist/panel-interview-guidance.md) / [Scoring sheet](https://docs.google.com/document/d/1bk59j77QOH-uEgQhtY-u4WC-mEDZ604rjY54cTtAue0/edit)
+[Panel Interviews Guidance](great-people/hiring-great-talent/creative-technologist/panel-interview-guidance.md) / [Scoring sheet](https://docs.google.com/document/d/1bk59j77QOH-uEgQhtY-u4WC-mEDZ604rjY54cTtAue0/edit)

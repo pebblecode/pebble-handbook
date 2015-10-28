@@ -30,4 +30,4 @@ It is each employee's responsibility to inform their line manager of any work-re
 - Request absence in a timely manner
 - Encourage informal chats about goals progress and development
 
-[[See absence policy](https://github.com/pebblecode/pebble-handbook/blob/master/policies/absence.md)] 
+[[See absence policy](great-place-to-work/policiespolicies/absence.md)] 
