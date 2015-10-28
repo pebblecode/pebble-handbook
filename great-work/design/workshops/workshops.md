@@ -44,4 +44,22 @@ As a result of this, it is often very useful to draw out the idea, in full on a 
 
 Remember to keep on stepping backwards from the solution. You will have conversations which will include talk of databases, websites, apps and platforms. Remember that for all software projects, there is a *Job to be Done*. Focus on that job to the exclusion of any solution. If the problem can be solved with some tape and bits of string, then do that. 
 
- 
+One of the recurring themes of Visions is for clients to request something that is either Excel or PowerPoint, but with an extra feature. It is important to continually work to pare back these unreasonable requirements until you are left with the core vital functionality. 
+
+##4. Test the idea
+This is linked to the vision. You can use games to explore how the idea will work from different viewpoints. How is this going to work for user type x or y? Have we forgotten that some people use screen readers? What about those without smart phones? It is very easy for people in the IT and software industry to enter an echochamber where we assume that everyone is like us. 
+
+##5. What don't we know?
+Clients will frequently make assumptions about their users for which they have very little or no evidence. It is our responsibility to challenge their assumptions. How do you know that they need this or that feature? Where did you get this information? There will be natural limits to how much we know. Then there will be things that we think we know but are incorrect about. It is the job of pebble {code} attendees to convince the client that if they truly want to service the needs of their users, they will need to conduct a certain amount of upfront research. 
+
+##6. Plan Research
+If the client agrees to conduct research, we need to create a plan. Who do we need to speak to? What are their profiles? How can we get hold of them? What are the timescales?
+
+##7. Explore Ideas
+A really successful workshop will have a considerable component of ideation. We need to make sure this ideation is structured, and not just a freeform brainstorm.
+
+>Brainstorming, an American technique in which ideas are graded according to how loudly they're shouted out.
+Alan Partridge 
+
+We have plenty of examples of techniques that are good for ideation. One in particular is iterative drawing. Participants are asked to repeatedly draw the idea, focusing in turn on one aspect or another. This is useful in helping participants to consider ideas from different perspectives. 
+
