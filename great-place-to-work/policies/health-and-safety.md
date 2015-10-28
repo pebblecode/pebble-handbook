@@ -31,6 +31,6 @@ Subject to review, monitoring and revision every 12 months, or sooner if work ac
 
 For futher documentation please see pages below:
 
-- [Workstation Guideline](great-place-to-work/policies/workstation-guideline.md)
+- [Workstation Guideline](/great-place-to-work/policies/workstation-guideline.md)
 - Risk and Fire Assessment
-- [Eye Test Policy](great-place-to-work/policies/eye-test.md)
+- [Eye Test Policy](/great-place-to-work/policies/eye-test.md)

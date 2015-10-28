@@ -1,6 +1,6 @@
 # Starter procedures
 
-## New starter? View your starter checklist [here](great-place-to-work/policies/procedures/new-starters-checklist.md). 
+## New starter? View your starter checklist [here](/great-place-to-work/policies/procedures/new-starters-checklist.md). 
 
 For management, administration and line manager, keep reading:
 
