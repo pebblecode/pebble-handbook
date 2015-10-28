@@ -12,6 +12,6 @@ If you **do not have access** to something, please email [admin](mailto:admin
 
 Or: 
 
-- [Need a colleagues extension?]((/great-people/people/lists-and-extensions.md)
+- [Need a colleagues extension?](/great-people/people/lists-and-extensions.md)
 - [Want to find out more about the company?](/great-place-to-work/company/readme.md)
 - [What about remote working?](/great-place-to-work/policies/remote-working.md)

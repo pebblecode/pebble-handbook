@@ -6,15 +6,15 @@ As of 1st November, pebble will contribute 3% of your gross monthly salary per m
 
 The benefits currently available  as part of the scheme are:-
 
-- [Pension Plan]((/great-people/people/benefits/pension-plan.md)  
-- [Medical Cover]((/great-people/people/benefits/medical-cover.md)
-- [Health Cash Plan]((/great-people/people/benefits/health-cash-plan.md)
-- [Dental Plan]((/great-people/people/benefits/dental-plan.md)
-- [Gym Membership]((/great-people/people/benefits/gym-membership.md)
+- [Pension Plan](/great-people/people/benefits/pension-plan.md)  
+- [Medical Cover](/great-people/people/benefits/medical-cover.md)
+- [Health Cash Plan](/great-people/people/benefits/health-cash-plan.md)
+- [Dental Plan](/great-people/people/benefits/dental-plan.md)
+- [Gym Membership](/great-people/people/benefits/gym-membership.md)
 
 In addition to our scheme benefits we also offer access to the following:-
 
-- [Cyclescheme]((/great-people/people/benefits/cyclescheme.md)
-- [Childcare Vouchers]((/great-people/people/benefits/childcare-vouchers.md)
+- [Cyclescheme](/great-people/people/benefits/cyclescheme.md)
+- [Childcare Vouchers](/great-people/people/benefits/childcare-vouchers.md)
 
 For more information, contact Zinat.

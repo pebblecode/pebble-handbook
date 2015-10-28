@@ -12,7 +12,7 @@ Whether you are looking to create a new role or update / improve the success rat
 Future pebble {code} people will learn about pebble {code} from multiple channels, the most visited channels will likely be via our careers page and candidate specification document (which includes a job description). 
 
 **Related Links:**
-[Careers page](http://pebblecode.com/careers/) / [Defining Candidate Specifications]((/great-people/hiring-great-talent/process/defining-candidate-specification.md)
+[Careers page](http://pebblecode.com/careers/) / [Defining Candidate Specifications](/great-people/hiring-great-talent/process/defining-candidate-specification.md)
 
 ## Sourcing Candidates Via Ads
 
@@ -70,7 +70,7 @@ If you want to explore sourcing candidates from businesses similar to pebble cod
 If you find suitable candidates, you can put them into the sourcing section of Recruitee (our recruitment platform).
 
 **Related Links:**
-[Introduction to Recruitee]((/great-people/hiring-great-talent/process/introduction-to-recruitee.md)
+[Introduction to Recruitee](/great-people/hiring-great-talent/process/introduction-to-recruitee.md)
 
 \* **Headhunters** - currently we are using [Gravitas](http://www.gravitasrecruitmentgroup.com/) with mixed results, their strengths cover more enterprise level developers i.e using languages .NET, #C and #F. We are currently considering using [Zebra People](http://zebrapeople.com/) who have had success with UX Designers / Front end developers and more recently broadening their candidates skill set. We spoke with [Arran Ross-Paterson](https://twitter.com/arranrp) who sounds like he really understands how to engage with Developers and is likely to introduce the kind of candidates we are looking to hire. 
 
@@ -85,7 +85,7 @@ A few options to consider:
 - Cold phone calls are generally hated by all, but cold emails are not quite as bad. An email is always welcome if it is relevant to the candidates at the right time in their career. 
 
 **Related Links:**
-[Initial Contact Guidance]((/great-people/hiring-great-talent/process/initial-contact.md)
+[Initial Contact Guidance](/great-people/hiring-great-talent/process/initial-contact.md)
 
 ## Screening Candidates
 
@@ -101,9 +101,9 @@ Essentially what we are looking to understand from the candidates are the follow
 
 The exact we we approach this will be different depending on the role we are looking to recruit:
 
-- [Screening Developer Candidates]((/great-people/hiring-great-talent/developer/process/01-screening-candidates.md)
-- [Screening Designer Candidates]((/great-people/hiring-great-talent/designer/screening-candidates.md)
-- [Screening Creative Technologist Candidates]((/great-people/hiring-great-talent/creative-technologist/screening-candidates.md)
+- [Screening Developer Candidates](/great-people/hiring-great-talent/developer/process/01-screening-candidates.md)
+- [Screening Designer Candidates](/great-people/hiring-great-talent/designer/screening-candidates.md)
+- [Screening Creative Technologist Candidates](/great-people/hiring-great-talent/creative-technologist/screening-candidates.md)
 
 ## Compensation Planning
 
@@ -124,4 +124,4 @@ For an ongoing recruitment like the developer and designer where  there is alrea
 For new roles that might not have a lot of traction in attracting candidate organically such as the lead creative technologist, you will need to run retrospective more frequently as so that you can quickly make improvements in your process.
  
 **Related Links:**
-[Retrospective Guidance]((/great-people/hiring-great-talent/process/retrospective.md)
+[Retrospective Guidance](/great-people/hiring-great-talent/process/retrospective.md)
