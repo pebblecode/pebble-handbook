@@ -59,8 +59,8 @@ If the client agrees to conduct research, we need to create a plan. Who do we ne
 A really successful workshop will have a considerable component of ideation. We need to make sure this ideation is structured, and not just a freeform brainstorm.
 
 >Brainstorming, an American technique in which ideas are graded according to how loudly they're shouted out.
-
-Alan Partridge 
+>
+>Alan Partridge 
 
 We have plenty of examples of techniques that are good for ideation. One in particular is iterative drawing. Participants are asked to repeatedly draw the idea, focusing in turn on one aspect or another. This is useful in helping participants to consider ideas from different perspectives. 
 
