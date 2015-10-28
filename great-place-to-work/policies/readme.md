@@ -1,7 +1,7 @@
 Here are the pebble {code} important procedures:
 
 - [Starter procedures](https://sites.google.com/a/pebblecode.com/wiki/people/policies/new-starter)
-- [Recruitement process](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fpebblecode%2Fpebble-handbook%2Fblob%2Fmaster%2Fhiring-great-talent%2Frecruitment-process.md&sa=D&sntz=1&usg=AFrqEze29aUCpk5B0eUlbu4V0jRSo-eRjw)
+- [Recruitement process](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fpebblecode%2Fpebble-handbook%2Fpolicies%2Fmaster%2Fhiring-great-talent%2Frecruitment-process.md&sa=D&sntz=1&usg=AFrqEze29aUCpk5B0eUlbu4V0jRSo-eRjw)
 - [Leaver procedures](https://sites.google.com/a/pebblecode.com/wiki/people/policies/leaver)
 - [Change procedures](https://sites.google.com/a/pebblecode.com/wiki/people/policies/change)
 - [Emergency procedures](https://sites.google.com/a/pebblecode.com/wiki/people/policies/emergency)
