@@ -14,6 +14,8 @@ As part of the software development process, it helpful to get everyone in the s
 8. Get people excited.
 9. Make people envious that they weren't there. 
 
+These aims are explored in more detail below.
+
 ##Preparing the workshop
 A good workshop takes a certain amount of preparation. You should design the workshop with timings in mind. Make a large-sized schedule which will go on the wall. You should make it clear that you are going to stick to it rigorously. Be conservative about how many activities you can fit in to a workshop. Often people will be late, or will take longer breaks than you asked for. Make sure the workshop has a sensible flow to it. 
 
