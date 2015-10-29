@@ -1,6 +1,14 @@
 # The pebble {code} handbook
 
-**HELLO! ;-)**
+If you are new here - Welcome to Pebble{code}! You're adventure starts here with
+the Pebble{code} handbook, a useful guide to get you up and running.
+
+If you've been here a while then this book is a handy reference to all things 
+Pebble{code}.
+
+This is a living document and we welcome any edits or new content at any time 
+via a pull request.  Just checkout out the [handbook guide](/great-place-to-work/company/handbook-guide.md) 
+on the steps to take to do this.
 
 **New starter,** begin [here](/great-place-to-work/policies/procedures/new-starters-checklist.md).
 
