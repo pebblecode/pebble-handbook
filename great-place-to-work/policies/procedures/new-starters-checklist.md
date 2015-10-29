@@ -2,20 +2,26 @@
 
 Day 1 - here are the things you need to get done:
 
-- Sign into [google mail](https://mail.pebblecode.com)
-- Create a google plus profile based on your @pebblecode.com account
-- Join the [pebble [office] community](https://plus.google.com/communities/106223767401107221867) and have a look round
-- Setup your Slack account - you should have received an email invite - email [admin](mailto:admin@pebblecode.com) if not
-- Check your contact details on [TribeHR](http://pebblecode.mytribehr.com)
-- Ensure you have a [Harvest](https://pebblecode.harvestapp.com) account for time tracking (we expect 8 hours tracked per day)
-- Get your domain account details from pebble.it support (if you are in the .NET team)
-- Say hello in the pebble Slack rooms.
-- Set up your LastPass account for managing all company passwords and install the browser extension. 
-- Need to configure a desk phone? Talk to your manager about [submitting a ticket](mailto:support@pebbleit.com)
-- Complete any necessary assessment forms - ask office management
-- Add an email signature - see the [email page](/great-place-to-work/policies/systems/email.md) for formatting tips
-- Set up a VPN connection (send an email to help@pebbleit.com to request access - see also [Remote Working](/great-place-to-work/policies/systems/remote-working-systems.md) page)
-- (Less important now in the days of the Cloud, but you may also want to) ensure an appropriate [backup](/great-place-to-work/policies/tech-wiki/backups.md) solution is in place for your laptop - install backup software and clone laptop disk
+|Task|Action|
+|:---|:-----|
+|Set up your email|Sign into [google mail](https://mail.pebblecode.com)|
+|Add an email signature|See the [email page](/great-place-to-work/policies/systems/email.md) for formatting tips|
+|Create a google plus profile|Join the [pebble [office] community](https://plus.google.com/communities/106223767401107221867) and have a look round|
+|Set Up Slack|You should have received an email invite - email [admin](mailto:admin@pebblecode.com) if not|
+|Say hello in the pebble Slack rooms|`/giphy hello`|
+|Check your contact details|Login to [TribeHR](http://pebblecode.mytribehr.com)|
+|Check your Harvest time traking account|Go to [Harvest](https://pebblecode.harvestapp.com) (we expect 8 hours tracked per day)|
+|Setup Lastpass|Go to [Lastpass](https://lastpass.com/) and follow the links for your browsers extensions|
+|Complete any necessary assessment forms|Ask the office management|
+|Need to configure a desk phone?|Talk to your manager about [submitting a ticket](mailto:support@pebbleit.com)
+|Set up a VPN connection|Send an email to help@pebbleit.com to request access - see also [Remote Working](/great-place-to-work/policies/systems/remote-working-systems.md) page|
+|Setup backup solution|Ensure an appropriate [backup](/great-place-to-work/policies/tech-wiki/backups.md) solution is in place for your laptop - install backup software and clone laptop disk|
+
+If you are in the .NET team
+
+|Task|Action|
+|:---|:-----|
+|Get your domain account details to log into your Windows laptop|[Submit a ticket](mailto:support@pebbleit.com) to pebble.it|
 
 And finally:
 
