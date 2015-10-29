@@ -39,7 +39,7 @@ Next, go to github and you should see a button like this:
 Go ahead an click it!  Now you'll be presented with an option to submit your
 pull request:
 
-![Submit a pull request](../../assets/submit_a_pull_request.png)
+![Submit a pull request](../../assets/submitting_a_pull_request.png)
 
 Once this has been created, you can continue to add to it by making more pushes
 
