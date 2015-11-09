@@ -5,6 +5,14 @@
 On occasions where we need to provide information in an engaging way, we often use animation and video.
 This has often involved longer pieces such as videos for education, marketing, or documentation, but occasionally takes the form of animated GIFs, sprites, or CSS animation.
 
+##Tools
+We use a variety of tools depending on requirements, ability.
+Where possible, we stay within the adobe ecosystem for interoperability.
+The majority of our instructional motion graphics pieces are done by animating layered *Illustrator* files in *After Effects*, but occasional other work has been done in *Blender* or something like *Processing*.
+Our video pieces are usually done in *Premiere Pro*, with retouching and compositing in *After Effects*.
+If *GIFs* are required, these are produced from videos in *Photoshop*.
+Final Encoding is usually done in *ffmpeg*.
+
 ##Process
 
 The process so far has consisted of 5 stages:
