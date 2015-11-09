@@ -55,6 +55,7 @@ If you have a working system, then you will be using the system for testing. If 
 Testing sessions should be semi-structured. This means that you should be prepared to ask a set of questions to common to each participant, but you should also be prepared to deviate temporarily from the structure should a topic of interest arise. A good testing session will typically start with easy questions, for example demographic questions, and move into progressively more complex areas. This allows the participant to become confident as the testing session proceeds.
 
 ###Demographic Questions
+Participants may cluster in groups according to various factors. For this reason it is useful to ask demographic questions so that any patterns that may emerge in the test data can be associated with particular groups. 
 
 * Age
 * How long at company
@@ -63,6 +64,15 @@ Testing sessions should be semi-structured. This means that you should be prepar
 * How often do you do [x] (Establishing familiarity)
 * How much do you use system [x] (Establish technical proficiency)
 
+###The Five Ws
+User testing can be boiled down to five W questions:
+* Who
+* When
+* Why
+* Where
+* HoW
+
+With these, you can pretty much cover all aspects of a user's experience of an app. If you can remember this principle alone, then you will be able to perform a user testing session.
 
 ###Key Questions for a particular page/component
 
@@ -72,6 +82,12 @@ Testing sessions should be semi-structured. This means that you should be prepar
 * What do you think will happen if you click on that?
 * How would you perform [ function x ]?
 
-If you're not sure about whether a feature is important or not, leave it out. If it's important the participants will notice. If it's not they will be able to carry on.
 
+##Leaving something out
+
+If you're not sure about whether a feature is important or not, leave it out of the design. If it's a wireframe then you can just delete it. If it's part of a production system, then you may be able to get that feature turned off on a staging site. If it's important the participants will notice. If it's not they will be able to carry on. This is a great technique for simplifying applications.
+
+##The Flow of the Test
 If a participant is hesitating, don't be afraid to let them think. After a while you can ask them what they are thinking, and what is making them hesitate. This can be revealing. After that you can prompt them with the answer. 
+
+Make sure your test doesn't run for more than 45 minutes. After this time, participants tend to tire, and you will stop getting useful information.
