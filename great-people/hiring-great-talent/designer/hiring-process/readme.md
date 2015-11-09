@@ -48,6 +48,9 @@ Obviously, every designer we recruit should have excellent skills. This includes
 *Evidence*. The first evidence we look for is a good portfolio. It should be varied, have evidence of the thought process from the start of a project through to the finish, and demonstrate excellent finished work. Any work that is live on the internet and interactive scores bonus points. A portfolio on its own is insufficient: Candidates are required to demonstrate their skills in person. For this, we will conduct a whiteboard exercise (e.g. design a phone book). Finally, we will follow up references to check that the candidate’s former employers agree on their skills.
 
 ####Good Spelling and Grammar
+Although some people think that designers should get a pass on their written skills, we need good skills in this department. This is because it is important for client communication (which we all take responsibility for). It is also useful for us to be able to annotate our designs. Lastly, we do not want a situation where one person's poor written skills create an additional burden for the rest of the team (who will have to correct their writing)
+
+*Evidence* We can judge this on the quality of written word in the candidate's cover letter, CV, and portfolio.
 
 ####Excellent Interpersonal/Client-facing Skills 
 We cannot hire on the basis of skills alone. As we are a client-facing company, we require everyone in the team to be professional, personable and a credit to pebble {code} in front of clients.
