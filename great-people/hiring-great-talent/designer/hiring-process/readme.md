@@ -41,7 +41,7 @@ We expect everyone who joins pebble {code} to have a higher education. This is n
 ####Appropriate Experience
 Candidates should have at least two years' experience in a related industry. We aim to recruit more junior designers in the future, but do not yet have the resources to bring them on so early in their career. 
 
-*Evidence* This should be clear from the candidate's CV. If it is not clear whether their previous jobs were relevant, some cursory searches should identify what the natures of their prior jobs were.
+*Evidence*. This should be clear from the candidate's CV. If it is not clear whether their previous jobs were relevant, some cursory searches should identify what the natures of their prior jobs were.
 
 
 ####Excellent Design Skills 
@@ -52,7 +52,7 @@ Obviously, every designer we recruit should have excellent skills. This includes
 ####Good Spelling and Grammar
 Although some people think that designers should get a pass on their written skills, we need good skills in this department. This is because it is important for client communication (which we all take responsibility for). It is also useful for us to be able to annotate our designs. Lastly, we do not want a situation where one person's poor written skills create an additional burden for the rest of the team (who will have to correct their writing)
 
-*Evidence* We can judge this on the quality of written word in the candidate's cover letter, CV, and portfolio.
+*Evidence*. We can judge this on the quality of written word in the candidate's cover letter, CV, and portfolio.
 
 ####Excellent Interpersonal/Client-facing Skills 
 We cannot hire on the basis of skills alone. As we are a client-facing company, we require everyone in the team to be professional, personable and a credit to pebble {code} in front of clients.
