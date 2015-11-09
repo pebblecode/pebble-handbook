@@ -61,8 +61,8 @@ Participants may cluster in groups according to various factors. For this reason
 * How long at company
 * Position
 * Unit/Function/Department
-* How often do you do [x] (Establishing familiarity)
-* How much do you use system [x] (Establish technical proficiency)
+* How often do you do x (Establishing familiarity)
+* How much do you use system x (Establish technical proficiency)
 
 ###The Five Ws
 User testing can be boiled down to five W questions:
