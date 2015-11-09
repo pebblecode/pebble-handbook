@@ -1,6 +1,6 @@
 #Design at pebble {code}
 
-Great software is not only well engineered, it is formed so it meets the needs of its users perfectly. At pebble {code} the design team is responsible for making sure our products are perfectly formed. The form of software is not simply the paint on the surface. In fact most of the design work lies "under the hood". 
+Great software is not only well engineered, it is formed so it meets the needs of its users perfectly. At pebble {code} the design team is responsible for making sure our products are perfectly formed. The form of software is not simply the paint on the surface. In fact most of the design work lies "under the hood".
 
 The design team at pebble {code} is responsible for:
 
@@ -13,7 +13,7 @@ The design team at pebble {code} is responsible for:
 * Creating interactive prototypes.
 * [Testing designs with users where possible.](./ux-research/user-testing.md)
 * Creating aesthetic designs.
-* Front end development, including HTML, CSS, SASS and some JS.  
-* Motion graphics production
+* Front end development, including HTML, CSS, SASS and some JS.
+* [Motion graphics production] (.motion-graphics/motion-graphics.md)
 
-The people that constitute the design team at pebble {code} are smart generalists. Despite this, individuals do have specific strengths, such as typography, illustration or motion graphics. 
+The people that constitute the design team at pebble {code} are smart generalists. Despite this, individuals do have specific strengths, such as typography, illustration or motion graphics.
