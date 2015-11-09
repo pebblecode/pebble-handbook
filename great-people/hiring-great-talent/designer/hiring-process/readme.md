@@ -39,7 +39,8 @@ We expect everyone who joins pebble {code} to have a higher education. This is n
 *Evidence*. This attribute should be on the candidates CV. If appropriate, a general question such as ‘what did you learn from your degree?’ could be asked at interview stage. Copies of degree certificates should be obtained before the candidate is recruited. 
 
 ####Appropriate Experience
-
+Candidates should have at least two years' experience in a related industry. We aim to recruit more junior designers in the future, but do not yet have the resources to bring them on so early in their career. 
+*Evidence* This should be clear from the candidate's CV. If it is not clear whether their previous jobs were relevant, some cursory searches should identify what the natures of their prior jobs were.
 
 
 ####Excellent Design Skills 
