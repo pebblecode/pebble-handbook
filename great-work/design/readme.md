@@ -14,6 +14,6 @@ The design team at pebble {code} is responsible for:
 * [Testing designs with users where possible.](./ux-research/user-testing.md)
 * Creating aesthetic designs.
 * Front end development, including HTML, CSS, SASS and some JS.
-* [Motion graphics production](.motion-graphics/motion-graphics.md)
+* [Motion graphics production](./motion-graphics/motion-graphics.md)
 
 The people that constitute the design team at pebble {code} are smart generalists. Despite this, individuals do have specific strengths, such as typography, illustration or motion graphics.
