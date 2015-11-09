@@ -40,6 +40,7 @@ We expect everyone who joins pebble {code} to have a higher education. This is n
 
 ####Appropriate Experience
 Candidates should have at least two years' experience in a related industry. We aim to recruit more junior designers in the future, but do not yet have the resources to bring them on so early in their career. 
+
 *Evidence* This should be clear from the candidate's CV. If it is not clear whether their previous jobs were relevant, some cursory searches should identify what the natures of their prior jobs were.
 
 
