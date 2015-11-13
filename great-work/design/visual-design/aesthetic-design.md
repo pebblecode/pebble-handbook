@@ -28,13 +28,13 @@ These ideas and more are covered in [Dieter Rams: ten principles for good design
 ## Tools
 * **Analog** Most of the time it is advisable to start the design process with analog tools such as sketching or white-boarding. 
 
-Sketching allows you to iterate over many different ideas as fast as possible before moving into software/code. White-boarding can also be used when a more collaborative approach is needed. 
+    Sketching allows you to iterate over many different ideas as fast as possible before moving into software/code. White-boarding can also be used when a more collaborative approach is needed. 
 * **Software** Once a design has been worked out with analog tools   you will often want to explore design within software. Currently the main tools for Aesthetic Design at pebble are [Sketch](https://www.sketchapp.com/) and [Adobe CC](http://www.adobe.com/uk/creativecloud.html). 
 
-Design software allows us to create easily create precise, beautiful designs however we should always be aware of how these designs will be created in code. 
+    Design software allows us to create easily create precise, beautiful designs however we should always be aware of how these designs will be created in code. 
 * **Code** As well as implementing our Aesthetic Design in code for production products we will also often use code to experiment with Aesthetic Design.
 
-This is most useful when we want to quickly mock up design solutions with an existing product, or when we want to test Aesthetic Designs which feature interactive elements. However working with code can often be slower than analog or design software so it may not be a good fit for the earlier parts of the process.
+    This is most useful when we want to quickly mock up design solutions with an existing product, or when we want to test Aesthetic Designs which feature interactive elements. However working with code can often be slower than analog or design software so it may not be a good fit for the earlier parts of the process.
 
 ## Processes
 * Research
