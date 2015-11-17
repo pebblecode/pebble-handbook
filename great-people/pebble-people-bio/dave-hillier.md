@@ -2,7 +2,7 @@
 ## Photo
 ![me](https://s.gravatar.com/avatar/1b3c4b3e732c7c0f59d85c24c90b277b)
 ## Role
-Lead Creative Technologist
+[Lead Creative Technologist](/great-people/hiring-great-talent/creative-technologist)
 
 ## Ask me about:
 Agile, Distributed Systems, Games Development
