@@ -1,6 +1,6 @@
 
 ## Photo
-![me](https://s.gravatar.com/avatar/1b3c4b3e732c7c0f59d85c24c90b277b?s=200)
+![me](https://s.gravatar.com/avatar/1b3c4b3e732c7c0f59d85c24c90b277b)
 ## Role
 Lead Creative Technologist
 
