@@ -33,7 +33,7 @@ I’d like to be involved developing new products and working in consultancy.
 - Arduino Projects
 
 ## What events do you go to
-I used to attend many in Tokyo but haven’t found the time to goto on in London yet.
+I used to attend many in Tokyo but haven’t found the time to goto ones in London yet.
 
 ## What do you do for fun?
 - Dancing
