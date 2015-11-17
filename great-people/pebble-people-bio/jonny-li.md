@@ -1,7 +1,3 @@
-## Name
-Jonny Li
-
-## Photo
 ![Image of Jonny Li](https://pbs.twimg.com/profile_images/2795690773/0a58befbaa7145650db031e3f02933f6.jpeg)
 
 ## Role
