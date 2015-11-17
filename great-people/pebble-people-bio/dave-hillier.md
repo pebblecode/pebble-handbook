@@ -13,7 +13,7 @@
 - *Build, package management and CI*: build hygiene is an essential part of scaling teams on single products. 
 
 ## Professional Interest 
-- I'm less interested in specific tools, such as, languages and more interested in what it actually takes to ship sortware.
+- I'm less interested in specific tools, such as, languages and more interested in what it actually takes to ship sortware. This pushes me towards organisational stuff like Agile methodologies and other areas.
 - I also have an interest in Distributed Databases and Message-oriented-middleware because they share some of the same characteristics as the distributed systems I've built in the past. 
 
 ## What do you want to do in the future (Career Goals)
