@@ -7,8 +7,8 @@ Managing Director
 ## Ask me about:
 - *Node.js*: I have written [a book][2] on it.
 - *JavaScript*: I have written [a lot][3] of it. 
-- *UNIX*: I have 10 years experience working with UNIX. 
-- *Clients*: I have 10 years experience of delivering digital projects.
+- *UNIX*: I have 12 years experience working with UNIX. 
+- *Clients*: I have 12 years experience of delivering digital projects.
 - *Lean*: I can help work out what's important in terms of proving an idea.
 - *Creativity*: I can facilitate idea generation.
 - *Business*: I founded pebble and have been MD for the last year. 
