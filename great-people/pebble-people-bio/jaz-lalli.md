@@ -8,8 +8,8 @@ Developer
 Anything. Because even if I can't help directly, I can do a good impersonation of a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 
 ## Professional Interest
-_App Development_ - Building high-quality, performant, web applications
-_Humans_ - How can groups of humans get together and build things in an enjoyable, effective way, that is rewarding for all
+- *App Development* - Building high-quality, performant, web applications
+- *Humans* - How can groups of humans get together and build things in an enjoyable, effective way, that is rewarding for all
 
 ## What do you want to do in the future (career goals)
 - Ship great stuff
