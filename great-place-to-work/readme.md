@@ -1,6 +1,6 @@
 # Welcome to the employee information hub!
 
-If there's something you need that you don't see here please ask Francesca or Toby...
+If there's something you need that you don't see here please ask Zinat or Toby...
 
 The contents of this wiki, the policies and the procedures are designed to provide consistency and transparency in working practices for our pebblers and to help you achieve and maintain standards of conduct, attendance and job performance. (If there is any inconsistency between this wiki and your Contract, the Contract will prevail).
 
