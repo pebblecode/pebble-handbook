@@ -1,4 +1,4 @@
-[![Peter O'Shaughnessy](http://s.gravatar.com/avatar/a0c3c51d81a7e1c98284ab173b9d381d)]
+![Peter O'Shaughnessy](http://s.gravatar.com/avatar/a0c3c51d81a7e1c98284ab173b9d381d)
 
 ## Role
 Tech Lead & Advocate (developer) 
