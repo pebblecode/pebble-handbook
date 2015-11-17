@@ -19,5 +19,5 @@
 ## What do you want to do in the future (Career Goals)
 - Learn more about working in a consultancy for now.
 - Get stuff shipped.
-- Help make engineering culture great!
+- Help keep engineering culture great as we scale!
 
