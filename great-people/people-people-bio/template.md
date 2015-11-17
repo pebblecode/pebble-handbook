@@ -1,5 +1,3 @@
-# pebble people bios
-
 ## Name
 
 ## Photo
