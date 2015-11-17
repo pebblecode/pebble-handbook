@@ -74,6 +74,9 @@ If you find suitable candidates, you can put them into the sourcing section of R
 
 \* **Headhunters** - currently we are using [Gravitas](http://www.gravitasrecruitmentgroup.com/) with mixed results, their strengths cover more enterprise level developers i.e using languages .NET, #C and #F. We are currently considering using [Zebra People](http://zebrapeople.com/) who have had success with UX Designers / Front end developers and more recently broadening their candidates skill set. We spoke with [Arran Ross-Paterson](https://twitter.com/arranrp) who sounds like he really understands how to engage with Developers and is likely to introduce the kind of candidates we are looking to hire. 
 
+## Referring friends / contact
+If you know someone who might be a good fit, refer them to pebble! We offer a £1,000 fee for a successful staff referrals. See the open positions available here at http://pebblecode.com/careers/
+
 ### First Contact
 
 If you are sourcing potential candidates, it’s important to remember what it feels like to be approached by a recruiter and how painful that experience can sometimes be. While you will essentially be selling pebble {code}, it cannot come across too much like a sell. 
