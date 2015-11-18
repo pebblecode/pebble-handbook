@@ -1,7 +1,7 @@
 ## Paul Addicott-Evans
 
 ## Photo
-[![me](https://en.gravatar.com/userimage/96990252/eeaa76789804b5c3f59bc43732b8e3ec.jpg?size=200)]
+![me](https://en.gravatar.com/userimage/96990252/eeaa76789804b5c3f59bc43732b8e3ec.jpg?size=200)
 ## Role
 [Lead Creative Technologist](/great-people/hiring-great-talent/creative-technologist)
 
