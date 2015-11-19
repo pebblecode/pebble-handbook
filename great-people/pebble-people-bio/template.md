@@ -1,7 +1,7 @@
 ## Name
 
 ## Photo
-[![me](URL to your profile pic here)]
+![me](URL to your profile pic here)
 ## Role
 
 
