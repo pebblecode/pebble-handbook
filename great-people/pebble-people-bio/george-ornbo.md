@@ -7,7 +7,7 @@ Managing Director
 ## Ask me about:
 - *Node.js*: I have written [a book][2] on it.
 - *JavaScript*: I have written [a lot][3] of it. 
-- *UNIX*: I have 12 years experience working with UNIX. 
+- [UNIX*: I have 12 years experience working with UNIX.](https://www.youtube.com/watch?v=dFUlAQZB9Ng)
 - *Clients*: I have 12 years experience of delivering digital projects.
 - *Lean*: I can help work out what's important in terms of proving an idea.
 - *Creativity*: I can facilitate idea generation.
