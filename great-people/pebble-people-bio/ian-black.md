@@ -1,5 +1,5 @@
 ## Photo
-![Ian Black](https://secure.gravatar.com/avatar/74e2778270b85e93630053bcae261148)
+![Ian Black](https://secure.gravatar.com/avatar/74e2778270b85e93630053bcae261148?s=400&r=pg&d=retro&v=1448022082696?size=200)
 
 ## Role
 Designer
@@ -11,7 +11,7 @@ Designer
 - Photography
 
 ## What are you working on for your 10% time?
-- Exploring <canvas>
+- Exploring \<canvas\>
 
 ## Professional Interest
 - Building beautiful tools
