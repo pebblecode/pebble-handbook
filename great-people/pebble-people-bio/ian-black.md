@@ -18,7 +18,7 @@ Designer
 - Understanding & solving problems
 
 ## What do you want to do in the future (career goals)
-- Learn all the things, w
+- Learn all the things
 - Engaging, understanding and exciting the user throuout the design process
 - Start/run a tech business
 - Perfect coffee art
