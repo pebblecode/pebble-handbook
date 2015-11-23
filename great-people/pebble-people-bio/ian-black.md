@@ -5,7 +5,7 @@
 Designer
 
 ## Ask me about:
-- Whatever you want, if you think it could help.
+- Whatever you want, if you think it could help
 - Design
 - Branding
 - Photography
