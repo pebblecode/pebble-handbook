@@ -12,7 +12,7 @@ The details are grouped according to levels of experience and ability, analogous
 - Can use version control to manage own workflow
 - Can explain own ideas and thought process to direct peers/team members
 - Demonstrates an appetite to improve and learn
-- Displays basic understanding of "how the web works" (e.g. request/response model, asynchrony)
+- Displays basic understanding of "how the web works" (e.g. HTTP request/response model, asynchrony)
 - Can take part in collaborative exercises
 - Is inquisitive
 
@@ -35,11 +35,11 @@ The details are grouped according to levels of experience and ability, analogous
 
 - Widely recognized technical excellence
 - Actively helps others improve themselves - seeks to make themselves obsolete
-- Is humble - no ego
+- Is humble - doesn't display a sense of self-importance, isn't driven by egotistical motives
 - Enables others to get stuff done
 - Facilitates group exercises involving a variety of participants (team-meetings, client workshops etc)
 - Can formulate and communicate a projects/products vision
-- Displays empathy and sensitivity towards everyone they interact with
+- Displays empathy and sensitivity in all of their communication
 - Seeks to improve things that are above and beyond their "role"
 - Can identify and enable adoption of better practices (organisational and technical)
-- Reflects the values and aspirations of the team/organisation, rather than imposing their own
+- Reflects the values and needs of the team/organisation - is able to adapt their approach to suit a given situation
