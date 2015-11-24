@@ -1,4 +1,4 @@
-# The Developer Role
+# The Developer Role Profiles
 
 Outlined below are skills/traits/behaviours relating to the various levels of being a developer @ pebble {code}. Whilst we do not adhere to tiered roles (junior, senior etc), the demonstration of these are what we believe makes a great software developer. This isn't a script, or a checklist to follow. It is deliberately non-prescriptive to allow people to pursue specific goals related to their career, but the overall themes should be applicable to everyone. These are the things that we value in developers, and they will form part of the evaluation during reviews and salaries.
 
