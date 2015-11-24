@@ -11,24 +11,23 @@ The details are grouped according to levels of experience and ability, analogous
 - Given well specified tasks, can write code in appropriate language to fulfill stated criteria
 - Can use version control to manage own workflow
 - Can explain own ideas and thought process to direct peers/team members
-- Demonstrates an appetite to learn new skills
+- Demonstrates an appetite to improve and learn
 - Displays basic understanding of "how the web works" (e.g. request/response model, asynchrony)
-- Can take part in pair-programming
+- Can take part in collaborative exercises
 - Is inquisitive
 
 
 ### 2. High-performing
 
 - Technically proficient - Expertise in at least 1 area, with a good breadth of knowledge ([T - shaped](https://en.wikipedia.org/wiki/T-shaped_skills))
-- Requirements gathering ability
 - Has an appreciation of building the right thing
-- Identifies key project risks & opportunites and seeks to address them
+- Requirements gathering ability
+- Identifies project opportunites/risks and seeks to address them
 - Cares about, and contributes to, improving organisational processes (at team or company level)
-- Is a self-directed learner
 - Gets stuff done - big things/small things/important things/general things
 - Produces output to help others improve
 - Is patient and understanding of others
-- Identifies areas of own weakness and actively seeks to improve them
+- Is a self-directed learner - identifies areas of own weakness and actively seeks to improve them
 - Communicates well in a variety of different environments (presenting, discussions, teaching, clients)
 
 
@@ -38,9 +37,9 @@ The details are grouped according to levels of experience and ability, analogous
 - Actively helps others improve themselves - seeks to make themselves obsolete
 - Is humble - no ego
 - Enables others to get stuff done
-- Facilitates and leads group discussions involving a variety of participants (team-meetings, client workshops etc)
+- Facilitates group exercises involving a variety of participants (team-meetings, client workshops etc)
+- Can formulate and communicate a projects/products vision
 - Displays empathy and sensitivity towards everyone they interact with
 - Seeks to improve things that are above and beyond their "role"
 - Can identify and enable adoption of better practices (organisational and technical)
 - Reflects the values and aspirations of the team/organisation, rather than imposing their own
-- Can formulate and communicate a projects/products vision
