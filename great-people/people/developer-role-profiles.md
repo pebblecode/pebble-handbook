@@ -1,10 +1,10 @@
 # The Developer Role Profiles
 
-Outlined below are skills/traits/behaviours relating to the various levels of being a developer @ pebble {code}. Whilst we do not adhere to tiered roles (junior, senior etc), the demonstration of these are what we believe makes a great software developer. This isn't a script, or a checklist to follow. It is deliberately non-prescriptive to allow people to pursue specific goals related to their career, but the overall themes should be applicable to everyone. These are the things that we value in developers, and they will form part of the evaluation during reviews and salaries.
+Outlined below are skills/traits/behaviours relating to the various levels of being a developer @ pebble {code}. Whilst we do not adhere to tiered roles (junior, senior etc), the demonstration of these are what we believe makes a great software developer. This isn't a script, or a checklist to follow. It is deliberately non-prescriptive to allow people to pursue specific goals related to their career, but the overall themes should be applicable to everyone. These are the things that we value in developers, and it will inform the evaluation of your performance and salary.
 
-*Note*, the recruitment guidelines should serve as a precursor to this document. If you haven't read that yet, [please do so here](https://github.com/pebblecode/pebble-handbook/tree/master/great-people/hiring-great-talent/developer).
+**Note:** the recruitment guidelines should serve as a precursor to this document. If you haven't read that yet, [please do so here](https://github.com/pebblecode/pebble-handbook/tree/master/great-people/hiring-great-talent/developer).
 
-The details are grouped according to levels of experience and ability, analogous to junior - mid - senior, but not in any way related to job titles. This is a non-exhaustive list, and the groups should be considered to be cumulative, such that being a high-performer means displaying the attributes stated in group 1 and 2. They are also entirely uncoupled from length of service.
+The details are grouped according to levels of experience and ability, analogous to junior - mid - senior, but not in any way related to job titles. This is a *non-exhaustive* list, and the groups should be considered to be cumulative, such that being a high-performer means displaying the attributes from group 1 and 2. These are also entirely uncoupled from length of service.
 
 ### 1. Capable
 
