@@ -4,7 +4,7 @@ Outlined below are skills/traits/behaviours relating to the various levels of be
 
 *Note*, the recruitment guidelines should serve as a precursor to this document. If you haven't read that yet, [please do so here](https://github.com/pebblecode/pebble-handbook/tree/master/great-people/hiring-great-talent/developer).
 
-The details are grouped according to levels of experience and ability, analogous to junior - mid - senior, but not in any way related to job titles. The groups should be considered to be cumulative, such that being a high-performer means displaying the attributes stated in group 1 and 2. They are also uncoupled from length of service.
+The details are grouped according to levels of experience and ability, analogous to junior - mid - senior, but not in any way related to job titles. This is a non-exhaustive list, and the groups should be considered to be cumulative, such that being a high-performer means displaying the attributes stated in group 1 and 2. They are also entirely uncoupled from length of service.
 
 ### 1. Capable
 Given well specified tasks, can write code in appropriate language to fulfill stated criteria
