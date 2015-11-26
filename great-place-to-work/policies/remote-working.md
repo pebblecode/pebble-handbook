@@ -8,7 +8,15 @@ This document is an outline of pebble {code}’s remote working practices. It ou
 
 **Short Periods**
 
-If you intend to work remotely for short periods, please ensure you notify everyone in the office. The best way to do this is by emailing all@pebblecode.com. You must endeavor to do this the day before you intend to stay away from the office, or at the latest by 9 a.m. on the day. 
+If you intend to work remotely for short periods, please ensure you notify everyone in the office. The best way to do this is to  let us know via Slack using the slash command”
+
+  /wfh
+
+You must endeavour to do this the day before you intend to stay away from the office, or at the latest by 9 a.m. on the day. 
+
+An email update will be sent to everyone in the office at 10am to let you know who is in the office or working from home. Alternatively, you can get a live update on our dashboard (here)[http://wfh.pebblecode.com/]. 
+
+More details on the WFH slash command (here)[http://pebblecode.com/blog/november-wfh-slack/].
 
 **Long Period**
 
@@ -22,9 +30,16 @@ However, pebble will consider any desire to work remotely. It is important to us
 
 **What can pebble {code} do to help long term remote workers? **
 
+For employees who will spend more than 80% of the time remote working. 
+
 - **Internet**. Pebble will help ensure that wherever the employee is working from, the Internet connection is fast and stable. 
-- **Hardware**. Pebble will consider all requests to provide additional hardware where deemed necessary or desirable to support a remote worker.
-- **Travel expenses**. If there is a requirement to come to the office for a meeting or event, pebble will cover travel expenses. TBD: Accommodation. 
+- **Hardware**. Pebble will offer employees an annual budget of £900 used within your discretion for making your work environment productive and comfortable. 
+This could includes Desk, Chair, Monitor, Headphones, Keyboard, Snack subscription, Spotify, Kindle books, etc.
+- **Travel expenses**. If there is a requirement to come to the office for a meeting or event, pebble will cover travel expenses. 
+
+If you are overseas, we aim to fly you back every quarter.
+If you are in another city, we aim to train you back every month.
+TBD: Accommodation. 
 
 pebble {code} already organises regular office events aimed at bringing everyone together for team building and fun times.  There is an expectation that remote workers will want to attend these events and take measures to attend when possible.
 
@@ -45,8 +60,13 @@ You will be expected to take part in the company performance review process so w
 
 **Tools:**
 
-- **Google Talk**. This is used for chat communications with your @pebblecode.com account. Please login during working hours so that people can get hold of you. If you are busy or do not want to be interrupted set your status accordingly. 
-- **Campfire**. pebble {code} makes heavy use of Campfire. There are different rooms for different teams. Please make sure you are in the relevant room(s) during working hours. If you are busy and do not want to be distracted please let the room know.
+- **Google Hangouts**. This is used for chat communications with your @pebblecode.com account. Please login during working hours so that people can get hold of you. If you are busy or do not want to be interrupted set your status accordingly. 
+- **Slack**. pebble {code} makes heavy use of Slack. There are different channels for different teams. Please make sure you are in the relevant channel(s) during working hours. If you are busy and do not want to be distracted please let the room know.
 - **Phone**. Please ensure that you are contactable by phone and send through contact details when you notify everyone that you are working remotely so that your team knows exactly how to get hold of you.  Pebble's VOIP software can be setup on either your laptop soft client or some compatible mobiles. 
 
-Skype / Google Talk. Sometime seeing a face is important - Skype or Google Talk video calls are great for this.  All pebble employees can use their pebble Google account for Google Talk or Skype if preferred.
+Skype / Google Hangout. Sometime seeing a face is important - Skype or Google Hangout video calls are great for this.  All pebble employees can use their pebble Google account for Google Hangout or Skype if preferred.
+
+# Final Note / Reminder:
+We are open to discussion about changes in your circumstances. We would prefer you in the office though….
+
+It’s nice here!
