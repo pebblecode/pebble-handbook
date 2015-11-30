@@ -13,7 +13,7 @@ Salary levels have been omitted while the discussions around pebble remuneration
 - Is inquisitive
 - Some work experience, to show an ability to work in a business environment
 - (1 of) Visual design skills
-- (1 of) Critical thinking
+- (1 of) Critical thinking skills
 - (1 of) Front-end development skills
 - Demonstrates an appetite to improve and learn
 - Develops an interest in the recruitment process
@@ -23,7 +23,7 @@ Salary levels have been omitted while the discussions around pebble remuneration
 
 - At least 2 years experience
 - (Growth in) Visual design skills
-- (Growth in) Critical thinking
+- (Growth in) Critical thinking skills
 - (Growth in) Front-end development skills
 - An ability to work autonomously
 - Actively collaborative with the pebble team
@@ -36,7 +36,7 @@ Salary levels have been omitted while the discussions around pebble remuneration
 
 - At least 4 years experience
 - (Advise / Guide on) Visual design skills
-- (Advise / Guide on) Critical thinking
+- (Advise / Guide on) Critical thinking skills
 - (Advise / Guide on) Front-end development skills
 - An interest in business development
 - Line management responsibilities
