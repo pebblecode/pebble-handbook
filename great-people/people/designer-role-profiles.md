@@ -67,8 +67,13 @@ In order to aid with discussion around pebble remuneration, each team member was
 The average median results were as follows:
 
 Junior Low            £23,250
+
 Junior High           £30,000
+
 Designer Low          £30,000
+
 Designer High         £50,000
+
 Lead Designer Low     £50,000
+
 Lead Designer High    £70,000
