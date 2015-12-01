@@ -61,3 +61,15 @@ Two other roles were originally discussed at each end of the spectrum. These hav
 - Leads client set-piece e.g. workshops
 - One of a kind
 
+### Salary Research
+
+In order to aid with discussion around pebble remuneration, each team member was asked to provide their thoughts on current market salary rates for the 3 main tiers. Their responses were collected anonymously and aggregated to create an average result. These were most likely based upon their own previous and current salaries, input from recruiter salary surveys available online, and guesswork on what others might be paid, as there was no disclosure of peer salaries.
+The results were as follows:
+
+Role                    Mean          Median        Standard Deviation
+Junior Low              £23,583.33    £23,250.00    £2,764.36
+Junior High             £30,500.00    £30,000.00    £2,345.21
+Designer Low            £30,428.57    £30,000.00    £3,598.94
+Designer High           £49,285.71    £50,000.00    £6,074.93
+Lead Designer Low       £50,833.33    £50,000.00    £4,915.96
+Lead Designer High      £68,333.33    £70,000.00    £2,581.99
