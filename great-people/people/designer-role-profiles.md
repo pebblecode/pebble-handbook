@@ -12,9 +12,9 @@ Salary levels have been omitted while the discussions around pebble remuneration
 
 - Is inquisitive
 - Some work experience, to show an ability to work in a business environment
-- (1 of) Visual design skills
-- (1 of) Critical thinking skills
-- (1 of) Front-end development skills
+- (1 of) Visual design skills - Use typography / layout / colour / motion to positive effect
+- (1 of) Critical thinking skills - An ability to reason & critique their design decisions
+- (1 of) Front-end development skills - An understanding of html & css
 - Demonstrates an appetite to improve and learn
 - Develops an interest in the recruitment process
 
@@ -27,9 +27,9 @@ Salary levels have been omitted while the discussions around pebble remuneration
 - (Growth in) Front-end development skills
 - An ability to work autonomously
 - Actively collaborative with the pebble team
-- Written communication skills
-- Design communication skills
-- Interpersonal skills
+- Written communication skills - Clients, presentations, blog posts
+- Design communication skills - Can explain own ideas and thought process to direct peers/team members
+- Interpersonal skills - Communicates well with others. Is patient and understanding.
 
 
 ### 3. Lead
@@ -41,7 +41,7 @@ Salary levels have been omitted while the discussions around pebble remuneration
 - An interest in business development
 - Line management responsibilities
 - Resource management
-- Involved in mentorship
+- Involved in mentorship - Enables others to get stuff done / Facilitates group exercises
 
 
 ## Appendix
@@ -59,5 +59,5 @@ Two other roles were originally discussed at each end of the spectrum. These hav
 - Thought leadership
 - Business development
 - Leads client set-piece e.g. workshops
-- 1 of a kind
+- One of a kind
 
