@@ -1,5 +1,12 @@
 #Train Questionnaire Exercise
 
+##Introduction
+This is the exercise that we use to assess people's design skills in an interview. It is an ostensibly simple task that has a few tricky sections. We expect the designer candidate to grasp the nature of the task, and ask the right questions. 
+
+For this task you will need the <a href="https://dl.dropboxusercontent.com/u/17961414/interviews/C2C_Wireframes.pdf" target="_blank">following wireframes</a>
+
+##The Task
+
 A National Rail operator needs to improve passenger satisfaction. They want to understand how presentable their stations are on a regular basis. pebble {code} has been tasked with creating a system that allows them to monitor the state of stations. 
 
 This monitoring is done by a set of people who visit all the stations and fill out a questionnaire. We are designing that questionnaire. It is a web app that will be delivered on an Android Tablet. 
