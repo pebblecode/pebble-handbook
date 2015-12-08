@@ -5,7 +5,10 @@ This is the exercise that we use to assess people's design skills in an intervie
 
 For this task you will need the <a href="https://dl.dropboxusercontent.com/u/17961414/interviews/C2C_Wireframes.pdf" target="_blank">following wireframes</a>.
 
+The instructions are available in a format for printing <a href="https://docs.google.com/document/d/1G-UIiNn5iEQ0KouoPZAOf0JlAdQilHnxHOrW9ImuGVs/pub">here</a>.
+
 ##The Task
+
 
 A National Rail operator needs to improve passenger satisfaction. They want to understand how presentable their stations are on a regular basis. pebble {code} has been tasked with creating a system that allows them to monitor the state of stations. 
 
