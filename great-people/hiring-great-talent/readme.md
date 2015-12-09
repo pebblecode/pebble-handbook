@@ -105,8 +105,8 @@ Essentially what we are looking to understand from the candidates are the follow
 The exact we we approach this will be different depending on the role we are looking to recruit:
 
 - [Screening Developer Candidates](/great-people/hiring-great-talent/developer/process/01-screening-candidates.md)
-- [Screening Designer Candidates](/great-people/hiring-great-talent/designer/screening-candidates.md)
-- [Screening Creative Technologist Candidates](/great-people/hiring-great-talent/creative-technologist/screening-candidates.md)
+- [Screening Designer Candidates](/great-people/hiring-great-talent/designer/hiring-process/01-screening-candidates.md)
+- [Screening Creative Technologist Candidates](/great-people/hiring-great-talent/creative-technologist/hiring-process/screening-candidates.md)
 
 ## Compensation Planning
 
