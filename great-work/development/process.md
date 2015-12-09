@@ -7,7 +7,7 @@ Agile Software Development @ pebble {code}
 
 The Team
 ========
-* **Customer**: Writes user stories, sets priorities and gives feedback. When their are multiple stakeholders someone should be selected to be the primary contact.
+* **Customer**: Writes user stories, sets priorities and gives feedback. When there are multiple stakeholders someone should be selected to be the primary contact.
 * **Team**: Developers and designers work together to estimates stories, defines tasks and design, implement and test the software product.
 * **Lead**: Coaches the team, ensures process is followed.
 
