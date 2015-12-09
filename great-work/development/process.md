@@ -73,6 +73,6 @@ User Stories
 
 Estimation
 ==========
-* **What**:
-* **Who**: 
-* **When**: 
+* **What**: Planning Poker or T-Shirt Sizing
+* **Why**: Help provide forecasts, ensure that stories are sufficiently elaborated
+* **Who**: The team who are actually doing the work!
