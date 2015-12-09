@@ -60,5 +60,7 @@ User Stories
 * **What**: A short, simple description of a feature told from the perspective of the person who desires the new capability.
 * **Who**: Anyone, but it’s the customers responsibility to ensure a prioritised backlog exists.
 * **When**: Usually a story writing workshop is held at the start of the project, but they can be created at any time.
-- As a <type of user>, I want <some goal> so that <some reason>.
+
+*As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;*
+
 *See INVEST*
