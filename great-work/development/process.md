@@ -28,9 +28,9 @@ Sprint Planning
 Daily Stand Up
 ==============
 * **What**: As a minimum, each team member answers three questions:
-# What did you do yesterday?
-# What will you do today?
-# Is anything slowing you down?
+  1. What did you do yesterday?
+  2. What will you do today?
+  3. Is anything slowing you down?
 * **Why**: communication with your peers, not for reporting status to management
 * **Who**: Anyone can attend, but only those actually on the team answer those questions.
 
