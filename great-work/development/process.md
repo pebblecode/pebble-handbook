@@ -11,6 +11,14 @@ The Team
 * **Team**: Developers and designers work together to estimates stories, defines tasks and design, implement and test the software product.
 * **Lead**: Coaches the team, ensures process is followed.
 
+Release Early & Often
+=====================
+
+* **What**: project is broken up into mini-projects, each with a small set of features that take only a few weeks to implement
+* **Why**: Building software is a process of discovery; the only way to tell how it will actually be used is in the hands of real users. 
+* 
+See also Minimum Viable Product
+
 Sprint Meetings
 ===============
 * **Planning**: Prioritisation, Select Goal, Task Breakdown
@@ -47,10 +55,10 @@ Retrospectives
 * **Who**: The team
 * **When** At the end of the sprint, but 
 
-Release Early & Often
-=====================
-
-* **What**: project is broken up into mini-projects, each with a small set of features that take only a few weeks to implement
-* **Why**: Building software is a process of discovery; the only way to tell how it will actually be used is in the hands of real users. 
-* 
-See also Minimum Viable Product
+User Stories
+============
+* **What**: A short, simple description of a feature told from the perspective of the person who desires the new capability.
+* **Who**: Anyone, but it’s the customers responsibility to ensure a prioritised backlog exists.
+* **When**: Usually a story writing workshop is held at the start of the project, but they can be created at any time.
+- As a <type of user>, I want <some goal> so that <some reason>.
+*See INVEST*
