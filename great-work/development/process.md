@@ -16,7 +16,7 @@ Release Early & Often
 
 * **What**: project is broken up into mini-projects, each with a small set of features that take only a few weeks to implement
 * **Why**: Building software is a process of discovery; the only way to tell how it will actually be used is in the hands of real users. 
-* 
+
 See also Minimum Viable Product
 
 Sprint Meetings
@@ -55,6 +55,12 @@ Retrospectives
 * **Who**: The team
 * **When** At the end of the sprint, but 
 
+Product Backlog
+=============== 
+* **What**: A prioritised features list, containing short descriptions of all functionality desired in the product.
+* **Why**: When applying Agile methods, it is not necessary to create a massive document detailing all requirements. The backlog usually contains enough for the first sprint. It then can grow and change.
+* **Who**: The customer keeps the product backlog up-to-date
+
 User Stories
 ============
 * **What**: A short, simple description of a feature told from the perspective of the person who will use it.
@@ -64,3 +70,9 @@ User Stories
 *As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;*
 
 *See INVEST*
+
+Estimation
+==========
+* **What**:
+* **Who**: 
+* **When**: 
