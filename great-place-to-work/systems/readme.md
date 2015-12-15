@@ -9,7 +9,8 @@ Here are all of the services that we use here in pebble {code} - any questions o
 - [Google Docs](https://docs.google.com/a/pebblecode.com) - shared documents
 - [TribeHR](https://pebblecode.mytribehr.com/) HR, absence tracking and performance management
 - [Slack](pebblecode.slack.com) - group chat for internal and external use
-- 
+
+
 And some older things that we dont use as much:
 
 - [Pivotal Tracker](https://www.google.com/url?q=https%3A%2F%2Fwww.pivotaltracker.com%2F&sa=D&sntz=1&usg=AFrqEzekbe7az-MA1ADSTJRYfrW8g4jfpw) - agile project management
