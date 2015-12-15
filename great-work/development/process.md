@@ -53,7 +53,7 @@ Retrospectives
 * **What**: Inspect and adapt your process.
 * **Why**: Day-to-day urgencies tend to take precedence over opportunities to improve often go unnoticed or aren't acted on.
 * **Who**: The team.
-* **When** At the end of the sprint, but 
+* **When** At the end of the sprint, but avoid leaving it over the weekend.
 
 Product Backlog
 =============== 
