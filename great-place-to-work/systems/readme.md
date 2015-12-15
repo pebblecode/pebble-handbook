@@ -4,7 +4,7 @@ Here are all of the services that we use here in pebble {code} - any questions o
 
 - [Github](https://github.com/pebblecode) - VCS (create an account (or use an existing one), send to your line manager)
 - [Harvest](https://pebblecode.harvestapp.com/time) - time tracking, billing, accounting (please read our [time tracking policy](https://sites.google.com/a/pebblecode.com/wiki/people/policies/time-tracking))
-- [Trello](trello.com) - Shared Kanban board & client facing project management and To Do list management
+- [Trello](http://trello.com) - Shared Kanban board & client facing project management and To Do list management
 - [Google Apps](https://mail.google.com/a/pebblecode.com) - email, calendar and contacts (more info [here](https://sites.google.com/a/pebblecode.com/wiki/systems/email), incl. signature template)
 - [Google Docs](https://docs.google.com/a/pebblecode.com) - shared documents
 - [TribeHR](https://pebblecode.mytribehr.com/) HR, absence tracking and performance management
