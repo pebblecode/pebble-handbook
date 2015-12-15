@@ -14,24 +14,24 @@ The Team
 Release Early & Often
 =====================
 
-* **What**: project is broken up into mini-projects, each with a small set of features that take only a few weeks to implement
+* **What**: project is broken up into mini-projects, each with a small set of features that take only a few weeks to implement.
 * **Why**: Building software is a process of discovery; the only way to tell how it will actually be used is in the hands of real users. 
 
 See also Minimum Viable Product
 
 Sprint Meetings
 ===============
-* **Planning**: Prioritisation, Select Goal, Task Breakdown
-* **Stand-up/Scrum**: Daily, 15 minutes, quick status update. Not for problem solving 
-* **Review**: what the team has delivered each sprint with the customer 
-* **Retrospective**: Inspect and adapt each sprint. Also see Kaizen 
+* **Planning**: Prioritisation, Select Goal, Task Breakdown.
+* **Stand-up/Scrum**: Daily, 15 minutes, quick status update. Not for problem solving. 
+* **Review**: What the team has delivered each sprint with the customer. 
+* **Retrospective**: Inspect and adapt each sprint. Also see Kaizen. 
 
 Sprint Planning
 ===============
 * **What**: Set the goal for the sprint. Break down into user stories and tasks that can be completed within the sprint.
-* **Why**: Planning helps with predictability of delivery
-* **Who**: only the team
-* **When**: Before each sprint begins
+* **Why**: Planning helps with predictability of delivery.
+* **Who**: Only the team.
+* **When**: Before each sprint begins.
 
 Daily Stand Up
 ==============
@@ -39,27 +39,27 @@ Daily Stand Up
   1. What did you do yesterday?
   2. What will you do today?
   3. Is anything slowing you down?
-* **Why**: communication with your peers, not for reporting management
+* **Why**: Communication with your peers, not for reporting management.
 * **Who**: Anyone can attend, but only those actually on the team answer those questions.
 
 Review
 ======
-* **What**: the team shows what they’ve done during the sprint. No PowerPoint!
+* **What**: The team shows what they’ve done during the sprint. No PowerPoint!
 * **Why**: Verify that the team met its goal and share what has been done to the reset of the team.
 * **Who**: Performed by the team. Attended by: customers, management, maybe other developers.
 
 Retrospectives
 ==============
-* **What**: Inspect and adapt your process
+* **What**: Inspect and adapt your process.
 * **Why**: Day-to-day urgencies tend to take precedence over opportunities to improve often go unnoticed or aren't acted on.
-* **Who**: The team
+* **Who**: The team.
 * **When** At the end of the sprint, but 
 
 Product Backlog
 =============== 
 * **What**: A prioritised features list, containing short descriptions of all functionality desired in the product.
 * **Why**: When applying Agile methods, it is not necessary to create a massive document detailing all requirements. The backlog usually contains enough for the first sprint. It then can grow and change.
-* **Who**: The customer keeps the product backlog up-to-date
+* **Who**: The customer keeps the product backlog up-to-date.
 
 User Stories
 ============
@@ -73,6 +73,6 @@ User Stories
 
 Estimation
 ==========
-* **What**: Planning Poker or T-Shirt Sizing
-* **Why**: Help provide forecasts, ensure that stories are sufficiently elaborated
+* **What**: Planning Poker or T-Shirt Sizing.
+* **Why**: Help provide forecasts, ensure that stories are sufficiently elaborated.
 * **Who**: The team who are actually doing the work!
