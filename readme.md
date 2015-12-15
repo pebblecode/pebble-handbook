@@ -8,7 +8,7 @@ If you want **technical information**, try the [Tech Wikis](/great-place-to-wor
 
 If you want **design information**, you can visit the [design section](/great-work/design).
 
-If you want to understand our **systems**, check [here](/great-place-to-work/systems/readme.md).
+If you want to understand the **services** that we use, check [here](/great-place-to-work/systems/readme.md).
 
 If you **do not have access** to something, please email [admin](mailto:admin@pebblecode.com).
 
