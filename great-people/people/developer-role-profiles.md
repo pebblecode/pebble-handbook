@@ -6,7 +6,7 @@ Outlined below are skills/traits/behaviours relating to the various levels of be
 
 The details are grouped according to levels of experience and ability, analogous to junior - mid - senior, but not in any way related to job titles. This is a *non-exhaustive* list, and the groups should be considered to be cumulative, such that being a high-performer means displaying the attributes from group 1 and 2. These are also entirely uncoupled from length of service.
 
-### 1. Capable (starting @ £30k)
+### 1. Capable (starting @ £25k)
 
 - Given well specified tasks, can write code in appropriate language to fulfill stated criteria
 - Can use version control to manage own workflow
@@ -17,7 +17,7 @@ The details are grouped according to levels of experience and ability, analogous
 - Is inquisitive
 
 
-### 2. High-performing (>=£50k)
+### 2. High-performing (>=£45k)
 
 - Technically proficient - Expertise in at least 1 area, with a good breadth of knowledge ([T - shaped](https://en.wikipedia.org/wiki/T-shaped_skills))
 - Has an appreciation of building the right thing
@@ -31,7 +31,7 @@ The details are grouped according to levels of experience and ability, analogous
 - Communicates well in a variety of different environments (presenting, discussions, teaching, clients)
 
 
-### 3. Exemplar (£>=70k)
+### 3. Exemplar (£>=65k)
 
 - Widely recognized technical excellence
 - Actively helps others improve themselves - seeks to make themselves obsolete
