@@ -4,23 +4,22 @@
 ![me](https://s.gravatar.com/avatar/5b008f604dfc97f1ba7c0b7519084557?s=400&r=pg&d=retro&v=1452162749039)
 ## Full Stack JavaScript Developer
 
-
 ## Ask me about:
-**Subject** - backstory!
+**Subject** - 
 
 **Subject** - backstory!
 
-**Subject** - backstory!
+**ShitThatsGood.com** - I was in the pub one night with some friends, we decided to go ahead and start our own T-Shirt company. Get the Tee! If you're interested you can have a discount :P 
 
 ## What are you working on for your 10% time?
 Currently enjoying react and react-native, I'm currently working on my lightening talk about react-native with redux.
 
 ## Professional Interest 
 Business: 
-**Subject**, **Subject**, **Subject**, **Subject** 
+**Entrepeneurship**, **Subject**, **Subject**, **Subject** 
 
 Software Development: 
-**Subject**, **Subject**, **Subject**, **Subject**
+**JavaScript, Node.js**, **React**, **Subject**, **Subject**
 
 Design
 **Subject**, **Subject**, **Subject**, **Subject**
@@ -46,8 +45,8 @@ LNUG, React London, Functional Programming for the web, SushiJS, BowlingJS
 - Enjoy sports, up for playing casually when it comes to football, tennis, volleyball and recently enjoying bouldering with some of the guys in the office.
 
 ## Favorite websites:
-- shitthatsgood.com - (slight bias its mine, but the official TShirt).
+- shitthatsgood.com - (slight bias)
 - Fav site here
 - Fav site here
 - Fav site here
-- Fav site here
+- mikejam.es // not live :(
