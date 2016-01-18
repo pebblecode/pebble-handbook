@@ -37,7 +37,7 @@ The pebble {code} fonts are:
 *Brandon Grotesque (for headings)
 *Meta (for body text)
 
-![Example of a heading](images/brandon-title.png" Heading")
+![Example of a heading](images/brandon-title.png)
 
 
 ###Lab banner graphics
