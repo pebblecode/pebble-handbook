@@ -42,8 +42,7 @@ HSL:  342, 82, 62
 ​
 ####Secondary Colours
 
-​```
-**pebble blue**
+​```**pebble blue**
 RGB: 014, 162, 220
 HEX: #0EA2DC
 HSL: 197, 88, 46 
@@ -66,8 +65,7 @@ HSL: 293, 28, 50
 **pebble orange**
 RGB: 250, 173, 064
 HEX: #FAAD40
-HSL: 035, 95, 62
-```
+HSL: 035, 95, 62```
 
 
 ###Typography
