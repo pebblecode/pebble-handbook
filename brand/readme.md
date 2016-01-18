@@ -104,6 +104,6 @@ Body copy uses the pebble ink colour ()
 
 ###Lab banner graphics
 
-![Example of a heading](images/pebble-lab-banner-logo.png)
+![Example of a heading](images/pebble-lab-banner-logo-pink-white-1500x500.png)
 This branding element is used in places where visual interest is needed to make the banded artefact stand out. Sometimes the pebble pink can become to slab-like and overwhelming. This banner breaks up that effect somewhat. 
 
