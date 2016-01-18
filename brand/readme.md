@@ -12,7 +12,7 @@ By taking every opportunity to reinforce the brand, we strengthen ourselves as a
 
 The brand assets are kept here. Do not keep a local copy of branded elements such as templates or logos as these are liable to be updated.
 
-*If in doubt about the use of these assets, ask a member of the design team.*
+**If in doubt about the use of these assets, ask a member of the design team.**
 
 ###Logo
 
@@ -42,7 +42,7 @@ HSL:  342, 82, 62
 ​
 ####Secondary Colours
 
-​````
+​```
 **pebble blue**
 RGB: 014, 162, 220
 HEX: #0EA2DC
@@ -67,7 +67,7 @@ HSL: 293, 28, 50
 RGB: 250, 173, 064
 HEX: #FAAD40
 HSL: 035, 95, 62
-````
+```
 
 
 ###Typography
