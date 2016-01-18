@@ -99,7 +99,6 @@ Notice that headings are always capitalised. Drop Shadows can be used optionally
 ####Body Copy
 ![Example of body copy](images/meta-body-text.png)
 
-Body copy uses the pebble ink colour ()
 
 
 ###Lab banner graphics
