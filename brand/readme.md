@@ -31,6 +31,44 @@ This logo is primarily for avatar situations, where a square branded element is 
 ###Colour
 ![Example of a heading](images/pebble-colours.png)
 
+####Primary Colour
+
+```
+**pebble pink**
+RGB: 238, 079, 126
+HEX: #EE4F7E
+HSL:  342, 82, 62
+```
+​
+####Secondary Colours
+
+​````
+**pebble blue**
+RGB: 014, 162, 220
+HEX: #0EA2DC
+HSL: 197, 88, 46 
+​
+**pebble aqua**
+RGB: 055, 190, 192
+HEX: #37BEC0
+HSL: 181, 55, 48
+​
+**pebble green**
+RGB: 164, 206, 078
+HEX: #A4CE4E
+HSL: 080, 57, 56
+​
+**pebble purple**
+RGB: 155, 092, 164
+HEX: #9B5CA4
+HSL: 293, 28, 50  
+​
+**pebble orange**
+RGB: 250, 173, 064
+HEX: #FAAD40
+HSL: 035, 95, 62
+````
+
 
 ###Typography
 
