@@ -34,10 +34,11 @@ This logo is primarily for avatar situations, where a square branded element is 
 
 The pebble {code} fonts are:
 
-*Brandon Grotesque (for headings)
-*Meta (for body text)
+* Brandon Grotesque (for headings)
+* Meta (for body text)
 
-![Example of a heading](images/brandon-title.png)
+![Example of a heading]("images/brandon-title.png" Example of a header)
+![Example of body copy]("images/meta-body-text.png" Example of body copy)
 
 
 ###Lab banner graphics
