@@ -23,10 +23,10 @@ There are two logos, the square logo and the rectangle logo. The pebble {code} l
 ![Example of a heading](images/pebble-logo.png)
 
 This is the default logo. It is used on the company website, and any paper document such as wireframes, statements of work or credentials. There are four versions:
-* Pink on white (for print documents).
-* White on Pink (for digital documents not intended for print, and the company website).
-* Pink on Transparent (for use on top of any other brand colour where appropriate).
-* White on Transparent (for emergency use where another background is required. There needs to be a *very* good reason to use this over the other options).
+* **Pink on white** (for print documents).
+* **White on Pink** (for digital documents not intended for print, and the company website).
+* **Pink on Transparent** (for use on top of any other brand colour where appropriate).
+* **White on Transparent** (for emergency use where another background is required. There needs to be a *very* good reason to use this over the other options).
 
 There should be a single space between pebble and {code}. Where possible the curly braces ({}) should be included. In the past there have been incorrect versions of the logo that have crept in. If you see any of the following incorrect uses, you should let the owner of the document know that they need to correct this.
 ​
@@ -88,8 +88,8 @@ HSL: 035, 95, 62
 
 The pebble {code} fonts are:
 
-* Brandon Grotesque (for headings)
-* Meta (for body text)
+* **Brandon Grotesque** (for headings)
+* **Meta** (for body text)
 
 ####Headings
 ![Example of a heading](images/brandon-title.png)
@@ -105,5 +105,5 @@ Body copy uses the pebble ink colour ()
 ###Lab banner graphics
 
 ![Example of a heading](images/pebble-lab-banner-logo-pink-white-1500x500.png)
-This branding element is used in places where visual interest is needed to make the banded artefact stand out. Sometimes the pebble pink can become to slab-like and overwhelming. This banner breaks up that effect somewhat. 
+This branding element is used in places where visual interest is needed to make the branded artefact stand out. Sometimes the pebble pink can become to slab-like and overwhelming. The white-on-pink banner breaks up that effect somewhat. The pink-on-white banner is useful for title pages of documents. 
 
