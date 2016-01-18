@@ -16,7 +16,7 @@ The brand assets are kept here. Do not keep a local copy of branded elements suc
 
 ###Logo
 
-There are two logos, the square logo and the rectangle logo.
+There are two logos, the square logo and the rectangle logo. The pebble {code} logo is set in FF Meta Bold.
 
 ####Rectangle Logo
 This is the default logo. It is used on the company website, and any paper document such as wireframes, statements of work or credentials. There are four versions:
@@ -29,19 +29,25 @@ This is the default logo. It is used on the company website, and any paper docum
 This logo is primarily for avatar situations, where a square branded element is required. For example in listings sites, or for Github. It should not be used in place of the retangle logo (e.g. on a print document).
 
 ###Colour
+![Example of a heading](images/pebble-colours.png)
+
 
 ###Typography
 
 The pebble {code} fonts are:
 
-* Brandon Grotesque (All Caps, for headings)
+* Brandon Grotesque (for headings)
 * Meta (for body text)
 
 ####Headings
-![Example of a heading](images/brandon-title.png "Example")
+![Example of a heading](images/brandon-title.png)
+
+Notice that headings are always capitalised. Drop Shadows can be used optionally.
 
 ####Body Copy
 ![Example of body copy](images/meta-body-text.png)
+
+Body copy uses the pebble ink colour ()
 
 
 ###Lab banner graphics
