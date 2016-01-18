@@ -10,7 +10,7 @@ By taking every opportunity to reinforce the brand, we strengthen ourselves as a
 
 ##Visual Guidelines
 
-The brand assets are kept here. Do not keep a local copy of branded elements such as templates or logos as these are liable to be updated.
+The brand assets are kept [here](https://drive.google.com/a/pebblecode.com/folderview?id=0B4mkyflO8zoEb0lwZzQxUW1hT0E&usp=sharing). Do not keep a local copy of branded elements such as templates or logos as these are liable to be updated.
 
 **If in doubt about the use of these assets, ask a member of the design team.**
 
