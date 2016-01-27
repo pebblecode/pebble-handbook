@@ -21,7 +21,7 @@ it is giving you a hint they should be merged.
 
 If you don't have a specific project, but still want to track some work, you should think about what the scope of the 
 board (or project) should be. For example, we’ve made a distinction between developing the website and the content for 
-the website, the reason is because they generally have different teams doing the 
+the website, the reason is because they generally have different teams doing the work.
 
 ## How do I create a board?
 
