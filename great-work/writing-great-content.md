@@ -16,19 +16,19 @@ For each of the above, split your thinking into 3, and 3 again.
 ## For example: 
 Governing Thought: Go Digital To Win
 
-1. Bede Gaming success story (for example)
+1/ Bede Gaming success story (for example)
 
 * Starting condition
 * The journey
 * The result
 
-2. Digital Benefits
+2/ Digital Benefits
 
 * Agilitiy & speed (time)
 * Better products (quality)
 * Lower costs (cost)
 
-3. Digital Cookbook
+3/ Digital Cookbook
 
 * Right Approach (people & culture, Agile governance, supporting infrastructure)
 * Right Thing (user-centred, Lean)
