@@ -17,10 +17,10 @@ We are on a few channels listed below, the audience consume information differen
 We are using Buffer to schedule tweets and track engagement on content here. We are on the 5 user business account at the moment so if you are interested in sharing content, let one of the account holders know and we’ll get this up online.
 
 Account holders:
-George
-Toby
-Clorama
-Jonny
+- George
+- Toby
+- Clorama
+- Jonny
 
 If you are interested in sharing content more regularly, let Jonny know and he’ll share his login with you.
 
@@ -35,14 +35,16 @@ If you know someone who might be interested in your piece, add them along with t
 ## The niche channels
 If you have written a piece that solves a problem or answers a question, there is a good chance that someone has asked the question before. Beyond the regular social channels, Q&A sites are also good places to share your content. We don’t have pebble accounts here, it’s not the kind of place to have a company account. You might want to share your content piece directly here, it’s more human to have the person sharing the content to also be the content writer here. Here are a few of the big ones:
 
-Quora
-Reddit
-HackerNews
+- Quora
+- Reddit
+- HackerNews
 
 If there is a specific channel that might be good to be on, add them below. 
 ### Design
+- [Add your suggestions here]
+- 
 
 ### Dev
-StackOverflow
+- StackOverflow
 
 ## Analytics
