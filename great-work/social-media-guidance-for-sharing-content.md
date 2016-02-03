@@ -67,5 +67,5 @@ If there is a specific channel that might be good to be on, add them below.
 ### Design
 
 ### Dev
-StackOverflow: Heavily focused on code, if you 
+StackOverflow: Heavily focused on code, if you are teaching people something, this is a good place to get discovered too.
 
