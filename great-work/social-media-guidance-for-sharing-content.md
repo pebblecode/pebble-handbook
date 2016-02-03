@@ -56,7 +56,10 @@ This section can give you an idea of how phrasing can be useful. Looking at what
 - Content Title and Link is just a statement of fact - readers will quickly decide the merit of the content piece based on visuals and a title.
 
 ## Schedule - When to post to get the most views
-Buffer has a tool that optimises the schedule time for posting content to get the highest views. I’ve already used this tool so all changes should be reflected in all other accounts. There is no need to mess with the settings here unless you feel strongly that need to make changes. 
+Buffer has a tool that optimises the schedule time for posting content to get the highest views. I’ve already used this tool for the master account but it looks like all the changes are not reflected in all other accounts. If you want to set this up on your account, I would recommend the following:
+
+Twitter - 16 posts per day.
+Facebook and Linkedin - 5 posts per day.
 
 ## The niche channels
 If you have written a piece that solves a problem or answers a question, there is a good chance that someone has asked the question before. Beyond the regular social channels, Q&A sites are also good places to share your content. We don’t have pebble accounts here, it’s not the kind of place to have a company account. You might want to share your content piece directly here, it’s more human to have the person sharing the content to also be the content writer here. Here are a few of the big ones:
