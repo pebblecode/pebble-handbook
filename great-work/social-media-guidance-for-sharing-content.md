@@ -14,7 +14,7 @@ We are on a few channels listed below, the audience consume information differen
 - Linkedin: People here are either looking for a job or looking for a business need.
 - Youtube/Vimeo: No limitations here (This is not on buffer but handled separately by Niall and Jonny <— Niall is the big boss here)
 
-You can create groups in Buffer which allows you to group together the channels for where you want to post a piece of content. The groups I’ve made so far include:
+You can create groups in Buffer which allows you to group together the channels for where you want to post a piece of content. The groups I’ve made on the master account include:
 
 pebble life (Twitter and Facebook)
 Primarily for all pebble content. Pictures, Blogs, Videos can all be posted here.
@@ -22,15 +22,17 @@ Primarily for all pebble content. Pictures, Blogs, Videos can all be posted here
 Digital Transformation (Twitter, Facebook, and Linkedin):
 For all thought leadership content, where the audience is more focused towards potential clients.
 
-## I want to post stuff
+If this makes sense to you, you might want to create groups to use too.
+
+## I want to post stuff!
 We are using Buffer to schedule tweets and track engagement on content here. We are on the 5 user business account at the moment so if you are interested in sharing content, let one of the account holders know and we’ll get this up online.
 
 Account holders:
-Peter
-George
-Toby
-Clorama
-Jonny
+- Peter O
+- George
+- Toby
+- Clorama
+- Jonny
 
 If you are interested in sharing content more regularly, let Jonny know and he’ll share his login with you.
 
