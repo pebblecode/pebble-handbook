@@ -8,8 +8,6 @@ Mailing Groups
 
  IT Support help@pebbleit.com
 
- Contrarius .net Developers     ct@pebblecode.com 
-
  Bede .net Developers (pebble only)  bedenetdev@pebblecode.com 
 
  Entire .net team      netdev@pebblecode.com         
@@ -26,4 +24,4 @@ Manage your call forwarding options [here](http://www.google.com/url?q=http%3A%
 
 SaaS
 
-When Signing up for a new Software as a Service product, please use accounts@pebblecode.com as the email address login, rather than your own email address, to ensure that accounts are able to login and update payment details.  Passwords should be stored in [mortimer](https://www.google.com/url?q=https%3A%2F%2Fmortimer.apu.pebblecode.net%2F&sa=D&sntz=1&usg=AFrqEzePHMPSC6YGOIGOU5f9YSzavTn14A) under the **pebble {code}** node.
+When Signing up for a new Software as a Service product, please use accounts@pebblecode.com as the email address login, rather than your own email address, to ensure that accounts are able to login and update payment details.  Passwords should be stored in [Lastpass](https://lastpass.com/) under the shared **pebble {code}** folders.
